@@ -1,0 +1,118 @@
+:host ::ng-deep {
+  .p-datatable-thead > tr > th{
+    color: #A77917;
+  }
+  .p-card {
+    border-radius: 0px;
+    border: 1px solid #e5e7eb;
+
+    .p-card-header {
+      background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+      color: white;
+      padding: 1.5rem;
+      border-radius: 12px 12px 0 0;
+      font-weight: 600;
+      font-size: 1.25rem;
+    }
+
+    .p-card-body {
+      padding: 2rem;
+    }
+  }
+.p-card-title{
+  color: #A77917;
+  font-weight: bold;
+  font-size: 1.8rem;
+}
+  .p-dropdown {
+    border: 1px solid #d1d5db;
+    border-radius: 6px;
+
+    .p-dropdown-label {
+      padding: 0.5rem;
+    }
+  }
+
+  .p-table {
+    .p-datatable-thead > tr > th {
+      background-color: #f9fafb;
+      color: #374151;
+      font-weight: 600;
+      border: 1px solid #e5e7eb;
+    }
+
+    .p-datatable-tbody > tr > td {
+      border: 1px solid #e5e7eb;
+      padding: 0.75rem;
+    }
+  }
+}
+
+/* RTL Support */
+.rtl {
+  direction: rtl;
+  text-align: right;
+
+  .list-inside {
+    text-align: right;
+  }
+}
+:host ::ng-deep {
+  .professional-language-drawer {
+    .p-drawer {
+      box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+      border-right: 1px solid #e5e7eb;
+
+      .p-drawer-header {
+        padding: 1.5rem 1.5rem 1rem 1.5rem;
+        border-bottom: 1px solid #f1f5f9;
+        background: white;
+
+        .p-drawer-header-content {
+          width: 100%;
+        }
+      }
+
+      .p-drawer-content {
+        padding: 0 1.5rem 1.5rem 1.5rem;
+        background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+      }
+    }
+
+    .p-inputtext {
+      border-radius: 12px;
+      border: 1px solid #d1d5db;
+      transition: all 0.2s ease-in-out;
+
+      &:focus {
+        box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+        border-color: #3b82f6;
+        transform: translateY(-1px);
+      }
+    }
+
+    .p-button {
+      transition: all 0.2s ease-in-out;
+
+      &:hover {
+        transform: scale(1.05);
+      }
+    }
+  }
+}
+.scale-hover {
+  transition: transform 0.2s ease-in-out;
+
+  &:hover {
+    transform: scale(1.02);
+  }
+}
+
+// Gradient backgrounds
+.bg-blue-25 {
+  background-color: rgba(59, 130, 246, 0.05);
+}
+
+.bg-gradient-header {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}

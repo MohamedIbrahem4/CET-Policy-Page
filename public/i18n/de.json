@@ -1,0 +1,101 @@
+{
+  "EXCURSION_POLICY": {
+    "TITLE": "Hilfreiche Informationen für alle Ausflüge",
+    "GENERAL_INFO": "Allgemeine Informationen",
+    "SPECIFIC_EXCURSIONS": "Spezifische Ausflugsinformationen",
+    "CONTACT": "Kontaktinformationen",
+    "POINTS": {
+      "1": "Versichern Sie sich bitte, dass das Datum auf dem Ausflugsticket richtig geschrieben ist.",
+      "2": "Falls Sie das Zimmer oder Hotel gewechselt haben, als was auf dem Ticket steht, melden Sie sich bitte bei Ihrem Hotelreiseleiter, um das bei ihm zu ändern.",
+      "3": "Die Abholung findet bei allen Ausflügen vor dem Eingangsbereich Ihres Hotels statt.",
+      "4": "Bei Abholung vor 07:30 Uhr melden Sie bitte bis 18:00 Uhr Ihren Weckruf an der Rezeption an und erkundigen Sie sich nach Frühstücksmöglichkeiten.",
+      "5": "Bei Ausflügen mit Flug oder Übernachtung und bei Fahrten auf die Sinai Halbinsel benötigen Sie Ihren Reisepass. Bitte tragen Sie lange Hosen bei dem Besuch des Klosters.",
+      "6": "Getränke bei den Mahlzeiten sind nicht im Preis eingeschlossen.",
+      "7": "Bitte lassen Sie während der Besichtigung keine Wertsachen (Kamera, Geld oä.) im Bus liegen.",
+      "8": "Bitte denken Sie an: Wasserflaschen, Sonnenschutzmittel, bequeme Schuhe, Kopfbedeckung und bei langen Fahrten ein Kopfkissen.",
+      "9": "Bei den Ausflügen, die bis zum Abend gehen, brauchen Sie etwas zum Überziehen.",
+      "10": "Bei der Abholung der Wüsten-, und Schnorchel Ausflügen bekommen Sie ein Sicherheitsformular, das Sie durchlesen und unterschreiben sollen.",
+      "11": "Bei den Quad- und Safariausflügen: die Gäste, die unter Rückenbeschwerden (Wirbelsäule / Bandscheiben) leiden und die Frauen, die Schwanger sind, dürfen nicht an einem solchen Ausflüge teilnehmen.",
+      "12": "Bitte informieren Sie Ihre Reiseleitung rechtzeitig im Falle einer Stornierung oder Umbuchung - Bei Stornierungen nach der Buchung und bis zu einem Tag vor Ausflugsbeginn behält sich die Agentur folgende Stornierungsgebühren vor:",
+      "13": "Bei Strönierung am Ausflugstag wird selbstverständlich nichts rückerstattet.",
+      "14": "Änderungen im Reiseverlauf sind kurzfristig vorbehalten, selbstverständlich bleibt der Charakter des Ausflugs jedoch vollumfänglich erhalten.",
+      "15": "Bei manchen Ausflügen sind Gebühren vor Ort zu bezahlen, darüber werden Sie selbsverstverstndlich bei der Buchung vom Reiseleiter informiert."
+    },
+    "CANCELLATION_FEES": {
+      "TITLE": "Stornierungsgebühren",
+      "80_PERCENT": "Kairo und Luxor per Flug",
+      "NO_REFUND": "Shopping Tour",
+      "50_PERCENT": "Alle weitere Ausflüge"
+    },
+    "BUS_TRIP": {
+      "TITLE": "Busfahrt nach Kairo oder Luxor",
+      "POINTS": [
+        "Am Tag vor dem Ausflug bestellen Sie bitte Ihren Weckruf, Frühstücksbox und Spätabendessen an der Rezeption.",
+        "Bequeme Kleidung, feste Schuhe, Kopfkissen, Wasserflasche, Sonnenschutz, Sonnenbrillen, Kamera, Creme, Geld für Getränke und Souveniers mitnehmen.",
+        "Die Klimaanlage im Bus könnte kühl werden, deshalb etwas zum Überziehen mitnehmen.",
+        "Falls Sie den Ausflug mit Flug oder mit Übernachtung gebucht haben, werden Sie noch den Reisepass oder Ihren Ausweis benötigen.",
+        "Eintritte in den Mumiensaal des Museums, Grab von Tut Anch Amun, Grabkammern der Pyramiden sind exklusiv."
+      ]
+    },
+    "SEA_EXCURSIONS": {
+      "TITLE": "Meerausflüge",
+      "SNORKELING": {
+        "TITLE": "Schnorcheln",
+        "POINTS": [
+          "Badesachen, Strandtücher vom Hotel, Sonnenbrillen, Creme, Fotoapparat, Geld (Getränke auf der Insel sind nicht im Preis inbegriffen), eine Jacke für nachmittags zum Überziehen mitnehmen.",
+          "Falls der Besuch der Insel nicht möglich ist, erfolgt stattdessen ein weiterer Schnorchelgang vom Boot aus.",
+          "Bei der Abholung bekommen Sie ein Sicherheitsformular, welches Sie durchlesen und unterschreiben sollen.",
+          "Für die Meerausflüge sind unterschiedliche Umweltgebühren zu bezahlen."
+        ]
+      },
+      "GLASS_BOAT": {
+        "TITLE": "Glassboot",
+        "POINTS": [
+          "Sonnenschutz, Brille, Wasserflasche und Kamera mitnehmen."
+        ]
+      }
+    },
+    "DESERT_EXCURSIONS": {
+      "TITLE": "Wüstenausflüge",
+      "POINTS": [
+        "Bequem anziehen, feste Schuhe, Sonnenbrille, Creme, Kamera, Wasser für die Hinfahrt und Kleingeld für Souveniers.",
+        "Bei den Ausflügen, die bis zum Abend gehen, brauchen Sie etwas zum Überziehen.",
+        "Gäste, die unter Rückenbeschwerden leiden oder Probleme mit der Wirbelsäule / Bandscheibe haben sowie Frauen, die Schwanger sind, dürfen nicht an einem solchen Ausflug teilnehmen.",
+        "Quad ist nur für eine Person.",
+        "Für Personen unter 16 Jahren ist Quadfahren nicht erlaubt.",
+        "Bei der Abholung bekommen Sie ein Sicherheitsformular, welches Sie durchlesen und unterschreiben sollen.",
+        "Das Kamelreiten ist für übergewichtige Personen nicht gestattet.",
+        "Für Wüstenausflüge sind unterschiedliche Umweltgebühren zu bezahlen."
+      ]
+    },
+    "GENERAL_NOTES": {
+      "TITLE": "Allgemeine Hinweise",
+      "POINTS": [
+        "Treffpunkt bei allen Ausflügen ist der Eingangsbereich vor Ihrem Hotel.",
+        "Denken Sie unbedingt daran, die rote Kopie von Ihrem Ausflugsticket mitzunehmen. Ihr Reiseleiter wird dieses vor Fahrtbeginn einsammeln.",
+        "Getränke bei den Mahlzeiten sind nicht im Preis inbegriffen",
+        "Eintritte in den Mumiensaal des Museums, Grab von Tut Anch Amun, Grabkammern der Pyramiden sind nicht im Preis enthalten.",
+        "Bitte lassen Sie während der Besichtigung keine Wertsachen (Kamera, Geld) im Bus liegen.",
+        "Änderungen im Reiseverlauf sind kurzfristig vorbehalten, selbstverständlich bleibt der Charakter des Ausflugs jedoch vollumfänglich erhalten."
+      ]
+    },
+    "RESPONSIBILITY": "Die Verantwortung für Organisation und Durchführung trägt die örtliche Agentur Cairo Express Travel",
+    "CONFIRMATION": "Hiermit bestätige Sie, dass Sie den oben angegebenen Ausflug bei dem örtlichen Ausflugsveranstalter CET Cairo Express Travel für die oben genannten Ausflugsteilnehmer verbindlich buche. Sie haben zur Kenntnis genommen, dass es sich nicht um eine Leistung und Angebot des Pauschalreiseveranstalters handelt, bei dem ich meine Pauschalurlaubsreise in Ägypten gebucht habe.",
+    "ENJOY": "Viel Spaß bei Ihrem Ausflug",
+    "TEAM_GREETING": "Ihr CET Team wünscht Ihnen einen schönen Ausflug und viel Spass !!!",
+    "CONTACT_INFO": "Für Anfragen, Sonderwünsche oder Beschwerden wenden Sie sich bitte an die unten stehende Adresse.",
+    "EMAIL": "E-Mail: cetservice@cairoexpresstravel.com",
+    "QR_CODE": "oder scannen Sie den QR-Code"
+  },
+    "LANGUAGE_SELECTOR": {
+    "TITLE": "Spracheinstellungen",
+    "SUBTITLE": "Wählen Sie Ihre bevorzugte Sprache",
+    "SEARCH_PLACEHOLDER": "Sprachen suchen...",
+    "RECENT": "Kürzlich verwendet",
+    "ALL_LANGUAGES": "Alle Sprachen",
+    "ACTIVE": "Aktiv",
+    "NO_RESULTS": "Keine Sprachen gefunden",
+    "NO_RESULTS_DESC": "Versuchen Sie, Ihre Suchbegriffe anzupassen",
+    "FOOTER_INFO": "Änderungen werden sofort übernommen"
+  }
+}

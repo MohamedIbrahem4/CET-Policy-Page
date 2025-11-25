@@ -1,0 +1,29 @@
+// Colors
+$primary-color: #3498db;
+$accent-color: #e74c3c;
+$text-dark: #2c3e50;
+$text-light: #7f8c8d;
+$background-light: #f9f9f9;
+$background-accent: #fff5f5;
+
+// Mixins
+@mixin mobile {
+  @media (max-width: 768px) {
+    @content;
+  }
+}
+
+@mixin cta-button {
+  background: $primary-color;
+  color: white;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 25px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: background 0.3s;
+
+  &:hover {
+    background: darken($primary-color, 10%);
+  }
+}

@@ -1,1 +1,96 @@
 /* You can add global styles to this file, and also import other style files */
+@use 'tailwindcss/base';
+@use 'tailwindcss/components';
+@use 'tailwindcss/utilities';
+
+@use "primeicons/primeicons.css";
+
+// @import 'aos/dist/aos.css';
+
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=DM+Serif+Display:ital@0;1&family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+
+body {
+  background: var(--surface-ground);
+  color: var(--text-color);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: white;
+  font-family: "Lora", serif;
+  direction: ltr;
+
+}
+
+/* RTL support */
+
+html[dir="rtl"] body {
+  direction: rtl !important;
+  text-align: right !important;
+  font-family: 'Cairo', sans-serif;
+
+}
+
+.animate-gradient {
+  background: linear-gradient(-45deg, rgb(0,37,62), rgba(0,37,62,0.8), rgba(0,37,62,0.6), rgba(0,37,62,0.9));
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+.animate-gradient-vertical {
+  background: linear-gradient(-45deg, rgb(0,37,62), rgba(0,37,62,0.8), rgba(0,37,62,0.6), rgba(0,37,62,0.9));
+  background-size: 400% 400%;
+  animation: gradient-vertical 15s ease infinite;
+}
+
+@keyframes gradient-vertical {
+  0% { background-position: 50% 0%; }
+  50% { background-position: 50% 100%; }
+  100% { background-position: 50% 0%; }
+}
+
+
+.animate-wave {
+  animation: wave 8s linear infinite;
+}
+
+@keyframes wave {
+  0% { transform: translateX(0); }
+  50% { transform: translateX(-20px); }
+  100% { transform: translateX(0); }
+}
+
+
+.move-up-bootom {
+	animation: move-up-bootom 3s linear infinite both;
+}
+ @keyframes move-up-bootom {
+  0% {
+    transform: translate(0);
+  }
+  20% {
+    transform: translate(-2px, 2px);
+  }
+  40% {
+    transform: translate(-2px, -2px);
+  }
+  60% {
+    transform: translate(2px, 2px);
+  }
+  80% {
+    transform: translate(2px, -2px);
+  }
+  100% {
+    transform: translate(0);
+  }
+}
+
+.alertify-notifier.ajs-right .ajs-message.ajs-visible{
+  right: 0;
+}
+
+

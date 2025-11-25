@@ -1,0 +1,101 @@
+{
+  "EXCURSION_POLICY": {
+    "TITLE": "Helpful Information for All Excursions",
+    "GENERAL_INFO": "General Information",
+    "SPECIFIC_EXCURSIONS": "Specific Excursion Information",
+    "CONTACT": "Contact Information",
+    "POINTS": {
+      "1": "Please ensure the date on the excursion ticket is correctly written.",
+      "2": "If you have changed rooms or hotels from what is stated on the ticket, please contact your hotel tour guide to make the change.",
+      "3": "Pickup for all excursions takes place in the entrance area of your hotel.",
+      "4": "For pickups before 07:30, please request a wake-up call at reception by 18:00 and inquire about breakfast options.",
+      "5": "For excursions with flights or overnight stays and trips to the Sinai Peninsula, you need your passport. Please wear long pants when visiting the monastery.",
+      "6": "Drinks with meals are not included in the price.",
+      "7": "Please do not leave valuables (camera, money, etc.) in the bus during sightseeing.",
+      "8": "Please remember: water bottles, sunscreen, comfortable shoes, head covering, and for long journeys, a pillow.",
+      "9": "For excursions that go until evening, you need something to wear over your clothes.",
+      "10": "For desert and snorkeling excursions, you will receive a safety form that you should read and sign.",
+      "11": "For quad and safari excursions: guests suffering from back problems (spine/discs) and pregnant women are not allowed to participate in such excursions.",
+      "12": "Please inform your tour guide in time in case of cancellation or rebooking - For cancellations after booking and up to one day before the excursion begins, the agency reserves the following cancellation fees:",
+      "13": "For cancellations on the excursion day, nothing will be refunded.",
+      "14": "Changes in the travel itinerary are subject to short-term changes, but the character of the excursion will of course be fully preserved.",
+      "15": "For some excursions, fees must be paid on site, about which you will of course be informed by the tour guide when booking."
+    },
+    "CANCELLATION_FEES": {
+      "TITLE": "Cancellation Fees",
+      "80_PERCENT": "Cairo and Luxor by flight",
+      "NO_REFUND": "Shopping Tour",
+      "50_PERCENT": "All other excursions"
+    },
+    "BUS_TRIP": {
+      "TITLE": "Bus Trip to Cairo or Luxor",
+      "POINTS": [
+        "The day before the excursion, please order your wake-up call, breakfast box and late dinner at reception.",
+        "Take comfortable clothing, sturdy shoes, pillow, water bottle, sunscreen, sunglasses, camera, cream, money for drinks and souvenirs.",
+        "The air conditioning on the bus could get cool, so take something to wear over your clothes.",
+        "If you have booked the excursion with a flight or overnight stay, you will also need your passport or ID.",
+        "Entrances to the Mummy Room of the Museum, Tomb of Tutankhamun, and pyramid burial chambers are exclusive."
+      ]
+    },
+    "SEA_EXCURSIONS": {
+      "TITLE": "Sea Excursions",
+      "SNORKELING": {
+        "TITLE": "Snorkeling",
+        "POINTS": [
+          "Take swimwear, beach towels from the hotel, sunglasses, cream, camera, money (drinks on the island are not included in the price), a jacket to wear over your clothes in the afternoon.",
+          "If visiting the island is not possible, an additional snorkeling session from the boat will take place instead.",
+          "Upon pickup, you will receive a safety form that you should read and sign.",
+          "Different environmental fees apply for sea excursions."
+        ]
+      },
+      "GLASS_BOAT": {
+        "TITLE": "Glass Bottom Boat",
+        "POINTS": [
+          "Take sunscreen, glasses, water bottle and camera."
+        ]
+      }
+    },
+    "DESERT_EXCURSIONS": {
+      "TITLE": "Desert Excursions",
+      "POINTS": [
+        "Dress comfortably, sturdy shoes, sunglasses, cream, camera, water for the journey and small change for souvenirs.",
+        "For excursions that go until evening, you need something to wear over your clothes.",
+        "Guests suffering from back problems or issues with the spine/discs as well as pregnant women are not allowed to participate in such excursions.",
+        "Quad is for one person only.",
+        "Quad riding is not permitted for persons under 16 years of age.",
+        "Upon pickup, you will receive a safety form that you should read and sign.",
+        "Camel riding is not permitted for overweight persons.",
+        "Different environmental fees apply for desert excursions."
+      ]
+    },
+    "GENERAL_NOTES": {
+      "TITLE": "General Notes",
+      "POINTS": [
+        "Meeting point for all excursions is the entrance area in front of your hotel.",
+        "Be sure to remember to take the red copy of your excursion ticket. Your tour guide will collect this before departure.",
+        "Drinks with meals are not included in the price",
+        "Entrances to the Mummy Room of the Museum, Tomb of Tutankhamun, and pyramid burial chambers are not included in the price.",
+        "Please do not leave valuables (camera, money) in the bus during sightseeing.",
+        "Changes in the travel itinerary are subject to short-term changes, but the character of the excursion will of course be fully preserved."
+      ]
+    },
+    "RESPONSIBILITY": "The responsibility for organization and implementation lies with the local agency Cairo Express Travel",
+    "CONFIRMATION": "Hereby you confirm that you are booking the above-mentioned excursion with the local excursion operator CET Cairo Express Travel for the above-mentioned excursion participants. You have taken note that this is not a service and offer of the package tour operator with whom I booked my package holiday in Egypt.",
+    "ENJOY": "Enjoy your excursion!",
+    "TEAM_GREETING": "Your CET Team wishes you a nice excursion and lots of fun!!!",
+    "CONTACT_INFO": "For inquiries, special requests or complaints, please contact the address below.",
+    "EMAIL": "Email: cetservice@cairoexpresstravel.com",
+    "QR_CODE": "or scan the QR code"
+  },
+   "LANGUAGE_SELECTOR": {
+    "TITLE": "Language Settings",
+    "SUBTITLE": "Choose your preferred language",
+    "SEARCH_PLACEHOLDER": "Search languages...",
+    "RECENT": "Recently Used",
+    "ALL_LANGUAGES": "All Languages",
+    "ACTIVE": "Active",
+    "NO_RESULTS": "No languages found",
+    "NO_RESULTS_DESC": "Try adjusting your search terms",
+    "FOOTER_INFO": "Changes apply immediately"
+  }
+}
