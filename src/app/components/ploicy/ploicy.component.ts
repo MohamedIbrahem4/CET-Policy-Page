@@ -80,26 +80,13 @@ export class PloicyComponent {
       info: 'Romance language'
     },
     {
-      code: 'es',
-      name: 'Spanish',
-      nativeName: 'Español',
-      flag: '🇪🇸',
-      info: 'World language'
-    },
-    {
       code: 'it',
       name: 'Italian',
       nativeName: 'Italiano',
       flag: '🇮🇹',
       info: 'Romance language'
     },
-    {
-      code: 'pt',
-      name: 'Portuguese',
-      nativeName: 'Português',
-      flag: '🇵🇹',
-      info: 'Lusophone language'
-    },
+
     {
       code: 'ru',
       name: 'Russian',
@@ -108,47 +95,33 @@ export class PloicyComponent {
       info: 'Cyrillic script'
     },
     {
-      code: 'zh',
-      name: 'Chinese',
-      nativeName: '中文',
-      flag: '🇨🇳',
-      info: 'Simplified Chinese'
-    },
-    {
-      code: 'ja',
-      name: 'Japanese',
-      nativeName: '日本語',
-      flag: '🇯🇵',
-      info: 'Japanese characters'
-    },
-    {
-      code: 'ko',
-      name: 'Korean',
-      nativeName: '한국어',
-      flag: '🇰🇷',
-      info: 'Hangul script'
-    },
-    {
-      code: 'hi',
-      name: 'Hindi',
-      nativeName: 'हिन्दी',
-      flag: '🇮🇳',
-      info: 'Devanagari script'
-    },
-    {
-      code: 'tr',
-      name: 'Turkish',
-      nativeName: 'Türkçe',
-      flag: '🇹🇷',
-      info: 'Turkic language'
-    },
-    {
-      code: 'nl',
-      name: 'Dutch',
-      nativeName: 'Nederlands',
-      flag: '🇳🇱',
-      info: 'Germanic language'
-    }
+    code: 'pl',
+    name: 'Polish',
+    nativeName: 'Polski',
+    flag: '🇵🇱',
+    info: 'West Slavic language'
+  },
+  {
+    code: 'sk',
+    name: 'Slovak',
+    nativeName: 'Slovenčina',
+    flag: '🇸🇰',
+    info: 'West Slavic language'
+  },
+  {
+    code: 'hu',
+    name: 'Hungarian',
+    nativeName: 'Magyar',
+    flag: '🇭🇺',
+    info: 'Uralic language'
+  },
+  {
+    code: 'cs',
+    name: 'Czech',
+    nativeName: 'Čeština',
+    flag: '🇨🇿',
+    info: 'West Slavic language'
+  }
   ];
 
 

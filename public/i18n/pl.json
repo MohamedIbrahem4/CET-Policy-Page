@@ -1,0 +1,101 @@
+{
+  "EXCURSION_POLICY": {
+    "TITLE": "Przydatne Informacje dla Wszystkich Wycieczek",
+    "GENERAL_INFO": "Informacje Ogólne",
+    "SPECIFIC_EXCURSIONS": "Informacje o Konkretnych Wycieczkach",
+    "CONTACT": "Informacje Kontaktowe",
+    "POINTS": {
+      "1": "Prosimy upewnić się, że data na bilecie wycieczkowym jest poprawnie wpisana.",
+      "2": "Jeśli zmieniłeś pokój lub hotel od tego, co jest podane na bilecie, skontaktuj się z przewodnikiem hotelowym, aby wprowadzić zmianę.",
+      "3": "Odbiór na wszystkie wycieczki odbywa się w strefie wejściowej Twojego hotelu.",
+      "4": "W przypadku odbioru przed 07:30, prosimy zamówić budzenie na recepcji do godziny 18:00 i zapytać o opcje śniadania.",
+      "5": "Na wycieczki z lotami lub noclegami oraz podróże na Półwysep Synajski potrzebujesz paszportu. Prosimy nosić długie spodnie podczas zwiedzania klasztoru.",
+      "6": "Napoje do posiłków nie są wliczone w cenę.",
+      "7": "Prosimy nie zostawiać wartościowych przedmiotów (aparat fotograficzny, pieniądze itp.) w autobusie podczas zwiedzania.",
+      "8": "Prosimy pamiętać: butelki z wodą, krem przeciwsłoneczny, wygodne buty, nakrycie głowy, a na długie podróże poduszkę.",
+      "9": "Na wycieczki, które trwają do wieczora, potrzebujesz czegoś do narzucenia na ubranie.",
+      "10": "Na wycieczki pustynne i nurkowanie z rurką otrzymasz formularz bezpieczeństwa, który powinieneś przeczytać i podpisać.",
+      "11": "Na wycieczki quad i safari: goście cierpiący na problemy z plecami (kręgosłup/dyski) i kobiety w ciąży nie mogą uczestniczyć w takich wycieczkach.",
+      "12": "Prosimy poinformować przewodnika na czas w przypadku odwołania lub zmiany rezerwacji - Za odwołania po rezerwacji i do jednego dnia przed rozpoczęciem wycieczki, agencja zastrzega sobie następujące opłaty za odwołanie:",
+      "13": "Za odwołania w dniu wycieczki nic nie zostanie zwrócone.",
+      "14": "Zmiany w programie podróży podlegają krótkoterminowym zmianom, ale charakter wycieczki oczywiście pozostanie w pełni zachowany.",
+      "15": "Za niektóre wycieczki opłaty należy uiścić na miejscu, o czym oczywiście poinformuje Cię przewodnik przy rezerwacji."
+    },
+    "CANCELLATION_FEES": {
+      "TITLE": "Opłaty za Odwołanie",
+      "80_PERCENT": "Kair i Luksor samolotem",
+      "NO_REFUND": "Wycieczka Zakupowa",
+      "50_PERCENT": "Wszystkie inne wycieczki"
+    },
+    "BUS_TRIP": {
+      "TITLE": "Podróż Autobusem do Kairu lub Luksoru",
+      "POINTS": [
+        "Dzień przed wycieczką zamów proszę budzenie, śniadaniówkę i późną kolację na recepcji.",
+        "Zabierz wygodne ubranie, solidne buty, poduszkę, butelkę wody, krem przeciwsłoneczny, okulary przeciwsłoneczne, aparat, krem, pieniądze na napoje i pamiątki.",
+        "Klimatyzacja w autobusie może być chłodna, więc weź coś do narzucenia na ubranie.",
+        "Jeśli zarezerwowałeś wycieczkę z lotem lub noclegiem, będziesz również potrzebować paszportu lub dowodu tożsamości.",
+        "Wejścia do Sali Mumii Muzeum, Grobu Tutenchamona i komór grobowych piramid są ekskluzywne."
+      ]
+    },
+    "SEA_EXCURSIONS": {
+      "TITLE": "Wycieczki Morskie",
+      "SNORKELING": {
+        "TITLE": "Nurkowanie z Rurką",
+        "POINTS": [
+          "Zabierz strój kąpielowy, ręczniki plażowe z hotelu, okulary przeciwsłoneczne, krem, aparat, pieniądze (napoje na wyspie nie są wliczone w cenę), kurtkę do narzucenia po południu.",
+          "Jeśli wizyta na wyspie nie jest możliwa, zamiast tego odbędzie się dodatkowa sesja nurkowania z łodzi.",
+          "Podczas odbioru otrzymasz formularz bezpieczeństwa, który powinieneś przeczytać i podpisać.",
+          "Dla wycieczek morskich obowiązują różne opłaty środowiskowe."
+        ]
+      },
+      "GLASS_BOAT": {
+        "TITLE": "Łódź ze Szklanym Dnem",
+        "POINTS": [
+          "Zabierz krem przeciwsłoneczny, okulary, butelkę wody i aparat."
+        ]
+      }
+    },
+    "DESERT_EXCURSIONS": {
+      "TITLE": "Wycieczki Pustynne",
+      "POINTS": [
+        "Ubierz się wygodnie, solidne buty, okulary przeciwsłoneczne, krem, aparat, wodę na podróż i drobne na pamiątki.",
+        "Na wycieczki, które trwają do wieczora, potrzebujesz czegoś do narzucenia na ubranie.",
+        "Goście cierpiący na problemy z plecami lub problemy z kręgosłupem/dyskami oraz kobiety w ciąży nie mogą uczestniczyć w takich wycieczkach.",
+        "Quad jest tylko dla jednej osoby.",
+        "Jazda na quadzie nie jest dozwolona dla osób poniżej 16 roku życia.",
+        "Podczas odbioru otrzymasz formularz bezpieczeństwa, który powinieneś przeczytać i podpisać.",
+        "Jazda na wielbłądzie nie jest dozwolona dla osób z nadwagą.",
+        "Dla wycieczek pustynnych obowiązują różne opłaty środowiskowe."
+      ]
+    },
+    "GENERAL_NOTES": {
+      "TITLE": "Uwagi Ogólne",
+      "POINTS": [
+        "Miejsce spotkania dla wszystkich wycieczek to strefa wejściowa przed Twoim hotelem.",
+        "Pamiętaj, aby zabrać czerwoną kopię biletu na wycieczkę. Twój przewodnik odbierze ją przed odjazdem.",
+        "Napoje do posiłków nie są wliczone w cenę",
+        "Wejścia do Sali Mumii Muzeum, Grobu Tutenchamona i komór grobowych piramid nie są wliczone w cenę.",
+        "Prosimy nie zostawiać wartościowych przedmiotów (aparat, pieniądze) w autobusie podczas zwiedzania.",
+        "Zmiany w programie podróży podlegają krótkoterminowym zmianom, ale charakter wycieczki oczywiście pozostanie w pełni zachowany."
+      ]
+    },
+    "RESPONSIBILITY": "Odpowiedzialność za organizację i realizację spoczywa na lokalnej agencji Cairo Express Travel",
+    "CONFIRMATION": "Niniejszym potwierdzasz, że rezerwujesz ww. wycieczkę u lokalnego operatora wycieczek CET Cairo Express Travel dla ww. uczestników wycieczki. Zauważyłeś, że nie jest to usługa i oferta organizatora wycieczek all inclusive, u którego zarezerwowałem moje wakacje all inclusive w Egipcie.",
+    "ENJOY": "Miłej wycieczki!",
+    "TEAM_GREETING": "Zespół CET życzy miłej wycieczki i dużo zabawy!!!",
+    "CONTACT_INFO": "W przypadku pytań, specjalnych życzeń lub skarg prosimy o kontakt pod poniższym adresem.",
+    "EMAIL": "Email: cetservice@cairoexpresstravel.com",
+    "QR_CODE": "lub zeskanuj kod QR"
+  },
+  "LANGUAGE_SELECTOR": {
+    "TITLE": "Ustawienia Języka",
+    "SUBTITLE": "Wybierz preferowany język",
+    "SEARCH_PLACEHOLDER": "Szukaj języków...",
+    "RECENT": "Ostatnio używane",
+    "ALL_LANGUAGES": "Wszystkie Języki",
+    "ACTIVE": "Aktywny",
+    "NO_RESULTS": "Nie znaleziono języków",
+    "NO_RESULTS_DESC": "Spróbuj dostosować warunki wyszukiwania",
+    "FOOTER_INFO": "Zmiany obowiązują natychmiast"
+  }
+}

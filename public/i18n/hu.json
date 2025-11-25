@@ -1,0 +1,101 @@
+{
+  "EXCURSION_POLICY": {
+    "TITLE": "Hasznos Információk Minden Kiránduláshoz",
+    "GENERAL_INFO": "Általános Információk",
+    "SPECIFIC_EXCURSIONS": "Specifikus Kirándulási Információk",
+    "CONTACT": "Kapcsolati Információk",
+    "POINTS": {
+      "1": "Kérjük, győződjön meg arról, hogy a kirándulási jegyen a dátum helyesen van feltüntetve.",
+      "2": "Ha szobát vagy szállodát változtatott a jegyen feltüntetettekhez képest, kérjük, lépjen kapcsolatba szállodai idegenvezetőjével a változtatás elvégzéséhez.",
+      "3": "Az összes kirándulás felvétele a szálloda bejárati területén történik.",
+      "4": "07:30 előtti felvétel esetén kérjük, 18:00-ig rendeljen ébresztést a recepción és érdeklődjön a reggeli lehetőségeiről.",
+      "5": "A repülős vagy éjszakázós kirándulásokhoz és a Sínai-félszigetre történő utazásokhoz szüksége lesz az útlevelére. Kérjük, hosszú nadrágot viseljen a kolostor látogatásakor.",
+      "6": "Az étkezésekhez tartozó italok nem tartoznak az árba.",
+      "7": "Kérjük, ne hagyjon értéktárgyakat (fényképezőgép, pénz stb.) a buszban a városnézés alatt.",
+      "8": "Kérjük, ne felejtse el: vizes palackokat, napvédő krémeket, kényelmes cipőt, fejfedőt, és hosszú utazásokhoz párnát.",
+      "9": "Az estig tartó kirándulásokhoz szüksége lesz valamire, amit a ruhája fölé vehet.",
+      "10": "A sivatagi és búvárkodós kirándulásokhoz kap egy biztonsági nyomtatványt, amit el kell olvasnia és alá kell írnia.",
+      "11": "A quad és szafari kirándulásokhoz: a hátproblémákkal (gerinc/korongok) küzdő vendégek és a terhes nők nem vehetnek részt ilyen kirándulásokon.",
+      "12": "Kérjük, időben értesítse idegenvezetőjét lemondás vagy átfoglalás esetén - A foglalás utáni és a kirándulás kezdete előtti egy napig történő lemondások esetén az ügynökség a következő lemondási díjakat tartja fenn:",
+      "13": "A kirándulás napján történő lemondások esetén semmit nem térítenek vissza.",
+      "14": "Az utazási menetrend változásai rövid távú változásoknak vannak kitéve, de a kirándulás jellege természetesen teljes egészében megmarad.",
+      "15": "Egyes kirándulásokhoz helyszíni díjakat kell fizetni, amiről természetesen az idegenvezető tájékoztatni fog a foglaláskor."
+    },
+    "CANCELLATION_FEES": {
+      "TITLE": "Lemondási Díjak",
+      "80_PERCENT": "Kairó és Luxor repülővel",
+      "NO_REFUND": "Bevásárló kirándulás",
+      "50_PERCENT": "Minden egyéb kirándulás"
+    },
+    "BUS_TRIP": {
+      "TITLE": "Buszút Kairóba vagy Luxorba",
+      "POINTS": [
+        "A kirándulás előtti napon kérjük, rendelje meg ébresztését, reggelidobozát és késői vacsoráját a recepción.",
+        "Vigyön kényelmes ruházatot, erős cipőt, párnát, vizes palackot, napvédőt, napszemüveget, fényképezőgépet, krémeket, pénzt italokra és szuvenírekre.",
+        "A busz klímája hűvös lehet, ezért vigyen valamit, amit a ruhája fölé vehet.",
+        "Ha repülővel vagy éjszakázással foglalta le a kirándulást, szüksége lesz útlevelére vagy személyi igazolványára is.",
+        "A múzeum múmiumtermébe, Tutanhamon sírjába és a piramisok sírkamráiba való belépések külön fizetendőek."
+      ]
+    },
+    "SEA_EXCURSIONS": {
+      "TITLE": "Tengeri Kirándulások",
+      "SNORKELING": {
+        "TITLE": "Búvárkodás",
+        "POINTS": [
+          "Vigyön fürdőruhát, strandtörölközőt a szállodából, napszemüveget, krémeket, fényképezőgépet, pénzt (az italok a szigeten nem tartoznak az árba), egy kabátot, amit délután a ruhája fölé vehet.",
+          "Ha a sziget meglátogatása nem lehetséges, helyette további búvárkodási ülés történik a hajóról.",
+          "Felvételkor kap egy biztonsági nyomtatványt, amit el kell olvasnia és alá kell írnia.",
+          "A tengeri kirándulásokhoz különböző környezetvédelmi díjak tartoznak."
+        ]
+      },
+      "GLASS_BOAT": {
+        "TITLE": "Üvegfenekű Hajó",
+        "POINTS": [
+          "Vigyön napvédőt, szemüveget, vizes palackot és fényképezőgépet."
+        ]
+      }
+    },
+    "DESERT_EXCURSIONS": {
+      "TITLE": "Sivatagi Kirándulások",
+      "POINTS": [
+        "Öltözzön kényelmesen, erős cipőt, napszemüveget, krémeket, fényképezőgépet, vizet az útra és aprópénzt szuvenírekre.",
+        "Az estig tartó kirándulásokhoz szüksége lesz valamire, amit a ruhája fölé vehet.",
+        "A hátproblémákkal vagy gerinc/korong problémákkal küzdő vendégek, valamint a terhes nők nem vehetnek részt ilyen kirándulásokon.",
+        "A quad csak egy személy számára szól.",
+        "A quad vezetése nem megengedett 16 év alatti személyek számára.",
+        "Felvételkor kap egy biztonsági nyomtatványt, amit el kell olvasnia és alá kell írnia.",
+        "A tevehátról nem megengedett túlsúlyos személyek számára.",
+        "A sivatagi kirándulásokhoz különböző környezetvédelmi díjak tartoznak."
+      ]
+    },
+    "GENERAL_NOTES": {
+      "TITLE": "Általános Megjegyzések",
+      "POINTS": [
+        "A találkozási pont minden kiránduláshoz a szálloda előtti bejárati terület.",
+        "Mindig emlékezzen a kirándulási jegy piros másolatának elvételére. Idegenvezetője ezt az indulás előtt gyűjti be.",
+        "Az étkezésekhez tartozó italok nem tartoznak az árba",
+        "A múzeum múmiumtermébe, Tutanhamon sírjába és a piramisok sírkamráiba való belépések nem tartoznak az árba.",
+        "Kérjük, ne hagyjon értéktárgyakat (fényképezőgép, pénz) a buszban a városnézés alatt.",
+        "Az utazási menetrend változásai rövid távú változásoknak vannak kitéve, de a kirándulás jellege természetesen teljes egészében megmarad."
+      ]
+    },
+    "RESPONSIBILITY": "A szervezés és végrehajtás felelőssége a helyi ügynökségre, a Cairo Express Travel-re hárul",
+    "CONFIRMATION": "Ezzel igazolja, hogy a fent említett kirándulást a helyi kirándulási üzemeltetőnél, a CET Cairo Express Travelnél foglalja le a fent említett kirándulási résztvevők számára. Tudomásul vette, hogy ez nem a csomagutazási üzemeltető szolgáltatása és ajánlata, akinél egyiptomi csomagnyaralásomat foglaltam.",
+    "ENJOY": "Jó kirándulást!",
+    "TEAM_GREETING": "CET csapatának kellemes kirándulást és sok szórakozást kíván!!!",
+    "CONTACT_INFO": "Kérdések, különleges kérések vagy panaszok esetén kérjük, lépjen kapcsolatba az alábbi címen.",
+    "EMAIL": "Email: cetservice@cairoexpresstravel.com",
+    "QR_CODE": "vagy olvassa be a QR kódot"
+  },
+  "LANGUAGE_SELECTOR": {
+    "TITLE": "Nyelvi Beállítások",
+    "SUBTITLE": "Válassza ki az előnyben részesített nyelvet",
+    "SEARCH_PLACEHOLDER": "Nyelvek keresése...",
+    "RECENT": "Legutóbb használt",
+    "ALL_LANGUAGES": "Összes Nyelv",
+    "ACTIVE": "Aktív",
+    "NO_RESULTS": "Nem találhatók nyelvek",
+    "NO_RESULTS_DESC": "Próbálja meg módosítani a keresési kifejezéseket",
+    "FOOTER_INFO": "A változtatások azonnal érvénybe lépnek"
+  }
+}
