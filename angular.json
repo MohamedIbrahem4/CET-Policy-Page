@@ -38,6 +38,7 @@
           },
           "configurations": {
             "production": {
+                    "baseHref": "/CET-Policy/",
               "budgets": [
                 {
                   "type": "initial",
