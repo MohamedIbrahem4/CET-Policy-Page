@@ -1,0 +1,101 @@
+{
+  "EXCURSION_POLICY": {
+    "TITLE": "Informations Utiles pour Toutes les Excursions",
+    "GENERAL_INFO": "Informations Générales",
+    "SPECIFIC_EXCURSIONS": "Informations sur les Excursions Spécifiques",
+    "CONTACT": "Informations de Contact",
+    "POINTS": {
+      "1": "Veuillez vous assurer que la date sur le billet d'excursion est correctement écrite.",
+      "2": "Si vous avez changé de chambre ou d'hôtel par rapport à ce qui est indiqué sur le billet, veuillez contacter votre guide touristique de l'hôtel pour effectuer le changement.",
+      "3": "La prise en charge pour toutes les excursions a lieu dans la zone d'entrée de votre hôtel.",
+      "4": "Pour les prises en charge avant 07h30, veuillez demander un réveil à la réception avant 18h00 et vous renseigner sur les options de petit-déjeuner.",
+      "5": "Pour les excursions avec vols ou nuitées et les voyages dans la péninsule du Sinaï, vous avez besoin de votre passeport. Veuillez porter un pantalon long lors de la visite du monastère.",
+      "6": "Les boissons lors des repas ne sont pas incluses dans le prix.",
+      "7": "Veuillez ne pas laisser d'objets de valeur (appareil photo, argent, etc.) dans le bus pendant les visites touristiques.",
+      "8": "N'oubliez pas : bouteilles d'eau, crème solaire, chaussures confortables, couvre-chef et pour les longs trajets, un oreiller.",
+      "9": "Pour les excursions qui se prolongent jusqu'au soir, vous avez besoin de quelque chose à porter par-dessus vos vêtements.",
+      "10": "Pour les excursions dans le désert et la plongée avec tuba, vous recevrez un formulaire de sécurité que vous devrez lire et signer.",
+      "11": "Pour les excursions en quad et safari : les clients souffrant de problèmes de dos (colonne vertébrale/disques) et les femmes enceintes ne sont pas autorisés à participer à de telles excursions.",
+      "12": "Veuillez informer votre guide à temps en cas d'annulation ou de modification - Pour les annulations après la réservation et jusqu'à un jour avant le début de l'excursion, l'agence se réserve les frais d'annulation suivants :",
+      "13": "Pour les annulations le jour de l'excursion, rien ne sera remboursé.",
+      "14": "Les modifications de l'itinéraire de voyage sont sujettes à des changements à court terme, mais le caractère de l'excursion sera bien sûr entièrement préservé.",
+      "15": "Pour certaines excursions, des frais doivent être payés sur place, dont vous serez bien sûr informé par le guide lors de la réservation."
+    },
+    "CANCELLATION_FEES": {
+      "TITLE": "Frais d'Annulation",
+      "80_PERCENT": "Le Caire et Louxor en avion",
+      "NO_REFUND": "Tour Shopping",
+      "50_PERCENT": "Toutes les autres excursions"
+    },
+    "BUS_TRIP": {
+      "TITLE": "Voyage en Bus pour Le Caire ou Louxor",
+      "POINTS": [
+        "La veille de l'excursion, veuillez commander votre réveil, votre boîte petit-déjeuner et votre dîner tardif à la réception.",
+        "Prenez des vêtements confortables, des chaussures solides, un oreiller, une bouteille d'eau, de la crème solaire, des lunettes de soleil, un appareil photo, de la crème, de l'argent pour les boissons et les souvenirs.",
+        "La climatisation dans le bus peut être fraîche, alors prenez quelque chose à porter par-dessus vos vêtements.",
+        "Si vous avez réservé l'excursion avec un vol ou un séjour nocturne, vous aurez également besoin de votre passeport ou de votre pièce d'identité.",
+        "Les entrées dans la salle des momies du musée, la tombe de Toutankhamon et les chambres funéraires des pyramides sont exclusives."
+      ]
+    },
+    "SEA_EXCURSIONS": {
+      "TITLE": "Excursions Maritimes",
+      "SNORKELING": {
+        "TITLE": "Plongée avec Tuba",
+        "POINTS": [
+          "Prenez des maillots de bain, des serviettes de plage de l'hôtel, des lunettes de soleil, de la crème, un appareil photo, de l'argent (les boissons sur l'île ne sont pas incluses dans le prix), une veste à porter l'après-midi.",
+          "Si la visite de l'île n'est pas possible, une séance de plongée avec tuba supplémentaire aura lieu depuis le bateau.",
+          "Lors de la prise en charge, vous recevrez un formulaire de sécurité que vous devrez lire et signer.",
+          "Des frais environnementaux différents s'appliquent pour les excursions maritimes."
+        ]
+      },
+      "GLASS_BOAT": {
+        "TITLE": "Bateau à Fond de Verre",
+        "POINTS": [
+          "Prenez de la crème solaire, des lunettes, une bouteille d'eau et un appareil photo."
+        ]
+      }
+    },
+    "DESERT_EXCURSIONS": {
+      "TITLE": "Excursions dans le Désert",
+      "POINTS": [
+        "Habillez-vous confortablement, chaussures solides, lunettes de soleil, crème, appareil photo, eau pour le voyage et petite monnaie pour les souvenirs.",
+        "Pour les excursions qui se prolongent jusqu'au soir, vous avez besoin de quelque chose à porter par-dessus vos vêtements.",
+        "Les clients souffrant de problèmes de dos ou de problèmes de colonne vertébrale/disques ainsi que les femmes enceintes ne sont pas autorisés à participer à de telles excursions.",
+        "Le quad est pour une personne seulement.",
+        "La conduite de quad n'est pas autorisée pour les personnes de moins de 16 ans.",
+        "Lors de la prise en charge, vous recevrez un formulaire de sécurité que vous devrez lire et signer.",
+        "La promenade à dos de chameau n'est pas autorisée pour les personnes en surpoids.",
+        "Des frais environnementaux différents s'appliquent pour les excursions dans le désert."
+      ]
+    },
+    "GENERAL_NOTES": {
+      "TITLE": "Notes Générales",
+      "POINTS": [
+        "Le point de rencontre pour toutes les excursions est la zone d'entrée devant votre hôtel.",
+        "N'oubliez pas de prendre la copie rouge de votre billet d'excursion. Votre guide la collectera avant le départ.",
+        "Les boissons lors des repas ne sont pas incluses dans le prix",
+        "Les entrées dans la salle des momies du musée, la tombe de Toutankhamon et les chambres funéraires des pyramides ne sont pas incluses dans le prix.",
+        "Veuillez ne pas laisser d'objets de valeur (appareil photo, argent) dans le bus pendant les visites touristiques.",
+        "Les modifications de l'itinéraire de voyage sont sujettes à des changements à court terme, mais le caractère de l'excursion sera bien sûr entièrement préservé."
+      ]
+    },
+    "RESPONSIBILITY": "La responsabilité de l'organisation et de la mise en œuvre incombe à l'agence locale Cairo Express Travel",
+    "CONFIRMATION": "Par la présente, vous confirmez que vous réservez l'excursion mentionnée ci-dessus auprès de l'opérateur d'excursions local CET Cairo Express Travel pour les participants à l'excursion mentionnés ci-dessus. Vous avez pris note qu'il ne s'agit pas d'un service et d'une offre de l'opérateur de voyages avec lequel j'ai réservé mon forfait vacances en Égypte.",
+    "ENJOY": "Bonnes excursions!",
+    "TEAM_GREETING": "Votre équipe CET vous souhaite une belle excursion et beaucoup de plaisir !!!",
+    "CONTACT_INFO": "Pour les demandes, les demandes spéciales ou les plaintes, veuillez contacter l'adresse ci-dessous.",
+    "EMAIL": "Email: cetservice@cairoexpresstravel.com",
+    "QR_CODE": "ou scannez le code QR"
+  },
+  "LANGUAGE_SELECTOR": {
+    "TITLE": "Paramètres de Langue",
+    "SUBTITLE": "Choisissez votre langue préférée",
+    "SEARCH_PLACEHOLDER": "Rechercher des langues...",
+    "RECENT": "Récemment utilisées",
+    "ALL_LANGUAGES": "Toutes les Langues",
+    "ACTIVE": "Actif",
+    "NO_RESULTS": "Aucune langue trouvée",
+    "NO_RESULTS_DESC": "Essayez d'ajuster vos termes de recherche",
+    "FOOTER_INFO": "Les modifications s'appliquent immédiatement"
+  }
+}

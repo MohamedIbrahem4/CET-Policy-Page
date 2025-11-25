@@ -1,0 +1,101 @@
+{
+  "EXCURSION_POLICY": {
+    "TITLE": "Informazioni Utili per Tutte le Escursioni",
+    "GENERAL_INFO": "Informazioni Generali",
+    "SPECIFIC_EXCURSIONS": "Informazioni sulle Escursioni Specifiche",
+    "CONTACT": "Informazioni di Contatto",
+    "POINTS": {
+      "1": "Si prega di assicurarsi che la data sul biglietto dell'escursione sia scritta correttamente.",
+      "2": "Se avete cambiato stanza o hotel rispetto a quanto indicato sul biglietto, si prega di contattare la guida turistica dell'hotel per apportare la modifica.",
+      "3": "Il ritiro per tutte le escursioni avviene nell'area d'ingresso del vostro hotel.",
+      "4": "Per i ritiri prima delle 07:30, si prega di richiedere la sveglia alla reception entro le 18:00 e informarsi sulle opzioni per la colazione.",
+      "5": "Per le escursioni con voli o pernottamenti e per i viaggi nella Penisola del Sinai, è necessario il passaporto. Si prega di indossare pantaloni lunghi quando si visita il monastero.",
+      "6": "Le bevande ai pasti non sono incluse nel prezzo.",
+      "7": "Si prega di non lasciare oggetti di valore (fotocamera, denaro, ecc.) nell'autobus durante le visite turistiche.",
+      "8": "Si prega di ricordare: bottiglie d'acqua, crema solare, scarpe comode, copricapo e per i viaggi lunghi, un cuscino.",
+      "9": "Per le escursioni che durano fino a sera, avete bisogno di qualcosa da indossare sopra i vestiti.",
+      "10": "Per le escursioni nel deserto e lo snorkeling, riceverete un modulo di sicurezza che dovrete leggere e firmare.",
+      "11": "Per le escursioni in quad e safari: gli ospiti che soffrono di problemi alla schiena (colonna vertebrale/dischi) e le donne incinte non sono autorizzati a partecipare a tali escursioni.",
+      "12": "Si prega di informare tempestivamente la vostra guida in caso di cancellazione o ri-prenotazione - Per le cancellazioni dopo la prenotazione e fino a un giorno prima dell'inizio dell'escursione, l'agenzia si riserva le seguenti penali di cancellazione:",
+      "13": "Per le cancellazioni il giorno dell'escursione, non verrà rimborsato nulla.",
+      "14": "Le modifiche all'itinerario di viaggio sono soggette a cambiamenti a breve termine, ma il carattere dell'escursione sarà ovviamente completamente preservato.",
+      "15": "Per alcune escursioni, le tariffe devono essere pagate sul posto, di cui ovviamente sarete informati dalla guida al momento della prenotazione."
+    },
+    "CANCELLATION_FEES": {
+      "TITLE": "Penali di Cancellazione",
+      "80_PERCENT": "Il Cairo e Luxor in aereo",
+      "NO_REFUND": "Tour Shopping",
+      "50_PERCENT": "Tutte le altre escursioni"
+    },
+    "BUS_TRIP": {
+      "TITLE": "Viaggio in Autobus per Il Cairo o Luxor",
+      "POINTS": [
+        "Il giorno prima dell'escursione, si prega di ordinare la sveglia, il box colazione e la cena tardiva alla reception.",
+        "Portare abiti comodi, scarpe robuste, cuscino, bottiglia d'acqua, crema solare, occhiali da sole, fotocamera, crema, denaro per bevande e souvenir.",
+        "L'aria condizionata sull'autobus potrebbe essere fresca, quindi portate qualcosa da indossare sopra i vestiti.",
+        "Se avete prenotato l'escursione con un volo o un pernottamento, avrete anche bisogno del passaporto o della carta d'identità.",
+        "Gli ingressi alla Sala delle Mummie del Museo, alla Tomba di Tutankhamon e alle camere funerarie delle piramidi sono esclusivi."
+      ]
+    },
+    "SEA_EXCURSIONS": {
+      "TITLE": "Escursioni Marittime",
+      "SNORKELING": {
+        "TITLE": "Snorkeling",
+        "POINTS": [
+          "Portare costumi da bagno, asciugamani da spiaggia dall'hotel, occhiali da sole, crema, fotocamera, denaro (le bevande sull'isola non sono incluse nel prezzo), una giacca da indossare nel pomeriggio.",
+          "Se la visita all'isola non è possibile, si terrà invece un'ulteriore sessione di snorkeling dalla barca.",
+          "Al momento del ritiro, riceverete un modulo di sicurezza che dovrete leggere e firmare.",
+          "Per le escursioni marittime si applicano diverse tasse ambientali."
+        ]
+      },
+      "GLASS_BOAT": {
+        "TITLE": "Barca dal Fondo di Vetro",
+        "POINTS": [
+          "Portare crema solare, occhiali, bottiglia d'acqua e fotocamera."
+        ]
+      }
+    },
+    "DESERT_EXCURSIONS": {
+      "TITLE": "Escursioni nel Deserto",
+      "POINTS": [
+        "Vestirsi comodi, scarpe robuste, occhiali da sole, crema, fotocamera, acqua per il viaggio e spiccioli per souvenir.",
+        "Per le escursioni che durano fino a sera, avete bisogno di qualcosa da indossare sopra i vestiti.",
+        "Gli ospiti che soffrono di problemi alla schiena o problemi alla colonna vertebrale/dischi, così come le donne incinte, non sono autorizzati a partecipare a tali escursioni.",
+        "Il quad è solo per una persona.",
+        "La guida del quad non è consentita alle persone di età inferiore ai 16 anni.",
+        "Al momento del ritiro, riceverete un modulo di sicurezza che dovrete leggere e firmare.",
+        "Il giro in cammello non è consentito alle persone in sovrappeso.",
+        "Per le escursioni nel deserto si applicano diverse tasse ambientali."
+      ]
+    },
+    "GENERAL_NOTES": {
+      "TITLE": "Note Generali",
+      "POINTS": [
+        "Il punto d'incontro per tutte le escursioni è l'area d'ingresso davanti al vostro hotel.",
+        "Ricordatevi di portare la copia rossa del biglietto dell'escursione. La vostra guida la ritirerà prima della partenza.",
+        "Le bevande ai pasti non sono incluse nel prezzo",
+        "Gli ingressi alla Sala delle Mummie del Museo, alla Tomba di Tutankhamon e alle camere funerarie delle piramidi non sono inclusi nel prezzo.",
+        "Si prega di non lasciare oggetti di valore (fotocamera, denaro) nell'autobus durante le visite turistiche.",
+        "Le modifiche all'itinerario di viaggio sono soggette a cambiamenti a breve termine, ma il carattere dell'escursione sarà ovviamente completamente preservato."
+      ]
+    },
+    "RESPONSIBILITY": "La responsabilità per l'organizzazione e l'attuazione spetta all'agenzia locale Cairo Express Travel",
+    "CONFIRMATION": "Con la presente si conferma di prenotare la suddetta escursione presso l'operatore escursionistico locale CET Cairo Express Travel per i suddetti partecipanti all'escursione. Avete preso atto che non si tratta di un servizio e di un'offerta del tour operator con cui ho prenotato il mio pacchetto vacanza in Egitto.",
+    "ENJOY": "Buona escursione!",
+    "TEAM_GREETING": "Il tuo team CET ti augura una bella escursione e tanto divertimento!!!",
+    "CONTACT_INFO": "Per richieste, richieste speciali o reclami, si prega di contattare l'indirizzo sottostante.",
+    "EMAIL": "Email: cetservice@cairoexpresstravel.com",
+    "QR_CODE": "o scansiona il codice QR"
+  },
+  "LANGUAGE_SELECTOR": {
+    "TITLE": "Impostazioni Lingua",
+    "SUBTITLE": "Scegli la lingua preferita",
+    "SEARCH_PLACEHOLDER": "Cerca lingue...",
+    "RECENT": "Usate di recente",
+    "ALL_LANGUAGES": "Tutte le Lingue",
+    "ACTIVE": "Attivo",
+    "NO_RESULTS": "Nessuna lingua trovata",
+    "NO_RESULTS_DESC": "Prova ad aggiustare i termini di ricerca",
+    "FOOTER_INFO": "Le modifiche si applicano immediatamente"
+  }
+}

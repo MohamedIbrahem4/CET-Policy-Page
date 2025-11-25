@@ -1,0 +1,101 @@
+{
+  "EXCURSION_POLICY": {
+    "TITLE": "Užitečné Informace pro Všechny Výlety",
+    "GENERAL_INFO": "Obecné Informace",
+    "SPECIFIC_EXCURSIONS": "Informace o Konkrétních Výletech",
+    "CONTACT": "Kontaktní Informace",
+    "POINTS": {
+      "1": "Ujistěte se prosím, že datum na výletní jízdence je správně napsáno.",
+      "2": "Pokud jste změnili pokoj nebo hotel oproti tomu, co je uvedeno na jízdence, kontaktujte prosím svého hotelového průvodce, aby změnu provedl.",
+      "3": "Vyzvednutí pro všechny výlety probíhá ve vstupní oblasti vašeho hotelu.",
+      "4": "Při vyzvednutí před 07:30, požádejte prosím o budící hovor na recepci do 18:00 a informujte se o možnostech snídaně.",
+      "5": "Pro výlety s lety nebo přenocováním a cesty na Sinajský poloostrov potřebujete svůj pas. Prosím, noste dlouhé kalhoty při návštěvě kláštera.",
+      "6": "Nápoje k jídlům nejsou zahrnuty v ceně.",
+      "7": "Během prohlídky nenechávejte prosím cennosti (fotoaparát, peníze atd.) v autobusu.",
+      "8": "Pamatujte prosím: láhve na vodu, opalovací krém, pohodlné boty, pokrývku hlavy a pro dlouhé cesty polštář.",
+      "9": "Pro výlety, které trvají do večera, potřebujete něco, co si můžete obléct přes oblečení.",
+      "10": "Pro pouštní a šnorchlování výlety obdržíte bezpečnostní formulář, který byste měli přečíst a podepsat.",
+      "11": "Pro čtyřkolky a safari výlety: hosté trpící problémy se zády (páteř/ploténky) a těhotné ženy se nesmějí takových výletů účastnit.",
+      "12": "V případě zrušení nebo přebookování informujte prosím svého průvodce včas - Za zrušení po rezervaci a do jednoho dne před začátkem výletu si agentura vyhrazuje následující storno poplatky:",
+      "13": "Za zrušení v den výletu se nic nevrací.",
+      "14": "Změny v cestovním plánu podléhají krátkodobým změnám, ale charakter výletu se samozřejmě plně zachová.",
+      "15": "Za některé výlety musí být poplatky placeny na místě, o čemž vás samozřejmě průvodce informuje při rezervaci."
+    },
+    "CANCELLATION_FEES": {
+      "TITLE": "Storno Poplatky",
+      "80_PERCENT": "Káhira a Luxor letadlem",
+      "NO_REFUND": "Nákupní výlet",
+      "50_PERCENT": "Všechny ostatní výlety"
+    },
+    "BUS_TRIP": {
+      "TITLE": "Autobusový Výlet do Káhiry nebo Luxoru",
+      "POINTS": [
+        "Den před výletem si prosím objednejte budící hovor, snídaňový box a pozdní večeři na recepci.",
+        "Vezměte si pohodlné oblečení, pevné boty, polštář, láhev na vodu, opalovací krém, sluneční brýle, fotoaparát, krém, peníze na nápoje a suvenýry.",
+        "Klimatizace v autobuse může být chladná, takže si vezměte něco, co si můžete obléct přes oblečení.",
+        "Pokud jste si výlet rezervovali s letem nebo přenocováním, budete potřebovat také svůj pas nebo občanský průkaz.",
+        "Vstupy do síně mumií muzea, hrobky Tutanchamona a pohřebních komor pyramid jsou exkluzivní."
+      ]
+    },
+    "SEA_EXCURSIONS": {
+      "TITLE": "Námořní Výlety",
+      "SNORKELING": {
+        "TITLE": "Šnorchlování",
+        "POINTS": [
+          "Vezměte si plavky, plážové ručníky z hotelu, sluneční brýle, krém, fotoaparát, peníze (nápoje na ostrově nejsou zahrnuty v ceně), bundu na odpoledne.",
+          "Pokud návštěva ostrova není možná, místo toho proběhne další šnorchlování z lodi.",
+          "Při vyzvednutí obdržíte bezpečnostní formulář, který byste měli přečíst a podepsat.",
+          "Pro námořní výlety platí různé environmentální poplatky."
+        ]
+      },
+      "GLASS_BOAT": {
+        "TITLE": "Loď se Skleněným Dnem",
+        "POINTS": [
+          "Vezměte si opalovací krém, brýle, láhev na vodu a fotoaparát."
+        ]
+      }
+    },
+    "DESERT_EXCURSIONS": {
+      "TITLE": "Pouštní Výlety",
+      "POINTS": [
+        "Oblečte si pohodlně, pevné boty, sluneční brýle, krém, fotoaparát, vodu na cestu a drobné na suvenýry.",
+        "Pro výlety, které trvají do večera, potřebujete něco, co si můžete obléct přes oblečení.",
+        "Hosté trpící problémy se zády nebo problémy s páteří/ploténkami, stejně jako těhotné ženy se nesmějí takových výletů účastnit.",
+        "Čtyřkolka je pouze pro jednu osobu.",
+        "Jízda na čtyřkolce není povolena osobám mladším 16 let.",
+        "Při vyzvednutí obdržíte bezpečnostní formulář, který byste měli přečíst a podepsat.",
+        "Jízda na velbloudu není povolena pro osoby s nadváhou.",
+        "Pro pouštní výlety platí různé environmentální poplatky."
+      ]
+    },
+    "GENERAL_NOTES": {
+      "TITLE": "Obecné Poznámky",
+      "POINTS": [
+        "Místo setkání pro všechny výlety je vstupní oblast před vaším hotelem.",
+        "Nezapomeňte si vzít červenou kopii výletní jízdenky. Váš průvodce ji vyzvedne před odjezdem.",
+        "Nápoje k jídlům nejsou zahrnuty v ceně",
+        "Vstupy do síně mumií muzea, hrobky Tutanchamona a pohřebních komor pyramid nejsou zahrnuty v ceně.",
+        "Během prohlídky nenechávejte prosím cennosti (fotoaparát, peníze) v autobusu.",
+        "Změny v cestovním plánu podléhají krátkodobým změnám, ale charakter výletu se samozřejmě plně zachová."
+      ]
+    },
+    "RESPONSIBILITY": "Odpovědnost za organizaci a realizaci nese místní agentura Cairo Express Travel",
+    "CONFIRMATION": "Tímto potvrzujete, že rezervujete výše uvedený výlet u místního provozovatele výletů CET Cairo Express Travel pro výše uvedené účastníky výletu. Vzali jste na vědomí, že se nejedná o službu a nabídku cestovní kanceláře, u které jsem si rezervoval zájezdovou dovolenou v Egyptě.",
+    "ENJOY": "Užijte si výlet!",
+    "TEAM_GREETING": "Váš tým CET vám přeje příjemný výlet a hodně zábavy!!!",
+    "CONTACT_INFO": "Pro dotazy, speciální požadavky nebo stížnosti, kontaktujte prosím níže uvedenou adresu.",
+    "EMAIL": "Email: cetservice@cairoexpresstravel.com",
+    "QR_CODE": "nebo naskenujte QR kód"
+  },
+  "LANGUAGE_SELECTOR": {
+    "TITLE": "Nastavení Jazyka",
+    "SUBTITLE": "Vyberte preferovaný jazyk",
+    "SEARCH_PLACEHOLDER": "Hledat jazyky...",
+    "RECENT": "Nedávno použité",
+    "ALL_LANGUAGES": "Všechny Jazyky",
+    "ACTIVE": "Aktivní",
+    "NO_RESULTS": "Nebyly nalezeny žádné jazyky",
+    "NO_RESULTS_DESC": "Zkuste upravit hledané výrazy",
+    "FOOTER_INFO": "Změny se projeví okamžitě"
+  }
+}
