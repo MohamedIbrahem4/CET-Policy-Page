@@ -1,0 +1,101 @@
+{
+  "EXCURSION_POLICY": {
+    "TITLE": "Handige informatie voor alle excursies",
+    "GENERAL_INFO": "Algemene informatie",
+    "SPECIFIC_EXCURSIONS": "Specifieke excursie-informatie",
+    "CONTACT": "Contactinformatie",
+    "POINTS": {
+      "1": "Zorg ervoor dat de datum op het excursieticket correct is ingevuld.",
+      "2": "Als u kamers of hotels hebt gewijzigd ten opzichte van wat op het ticket staat, neem dan contact op met uw hotelgids om dit te wijzigen.",
+      "3": "Het ophalen voor alle excursies vindt plaats bij de ingang van uw hotel.",
+      "4": "Voor ophaaltijden vóór 07:30, vraag een wake-up call bij de receptie voor 18:00 en informeer naar ontbijtopties.",
+      "5": "Voor excursies met vluchten of overnachtingen en trips naar het Sinaï-schiereiland heeft u uw paspoort nodig. Draag lange broek bij een bezoek aan het klooster.",
+      "6": "Drankjes bij maaltijden zijn niet inbegrepen in de prijs.",
+      "7": "Laat geen waardevolle spullen (camera, geld, enz.) achter in de bus tijdens het sightseeing.",
+      "8": "Denk eraan: waterflessen, zonnebrandcrème, comfortabele schoenen, hoofddeksel en voor lange reizen een kussen mee te nemen.",
+      "9": "Voor excursies die tot in de avond duren, heeft u iets nodig om over uw kleding te dragen.",
+      "10": "Voor woestijn- en snorkelexcursies ontvangt u een veiligheidsformulier dat u moet lezen en ondertekenen.",
+      "11": "Voor quad- en safari-excursies: gasten met rugproblemen (wervelkolom/schijven) en zwangere vrouwen mogen niet deelnemen aan deze excursies.",
+      "12": "Informeer uw gids tijdig in geval van annulering of omboeking - Voor annuleringen vanaf de boeking tot één dag voor de excursie gelden de volgende annuleringskosten:",
+      "13": "Voor annuleringen op de dag van de excursie wordt niets terugbetaald.",
+      "14": "Wijzigingen in het reisschema kunnen kort van tevoren plaatsvinden, maar het karakter van de excursie blijft natuurlijk behouden.",
+      "15": "Voor sommige excursies moeten ter plaatse kosten worden betaald, waarvan u uiteraard door de gids wordt geïnformeerd bij het boeken."
+    },
+    "CANCELLATION_FEES": {
+      "TITLE": "Annuleringskosten",
+      "80_PERCENT": "Caïro en Luxor per vlucht",
+      "NO_REFUND": "Winkeltour",
+      "50_PERCENT": "Alle andere excursies"
+    },
+    "BUS_TRIP": {
+      "TITLE": "Busreis naar Caïro of Luxor",
+      "POINTS": [
+        "Bestel de dag voor de excursie uw wake-up call, ontbijtpakket en late diner bij de receptie.",
+        "Neem comfortabele kleding, stevige schoenen, kussen, waterfles, zonnebrandcrème, zonnebril, camera, geld voor drankjes en souvenirs mee.",
+        "De airconditioning in de bus kan koel zijn, dus neem iets om over uw kleding te dragen.",
+        "Als u de excursie met vlucht of overnachting heeft geboekt, heeft u ook uw paspoort of ID nodig.",
+        "Toegang tot de Mummiekamer van het museum, het graf van Toetanchamon en piramide-begraafkamers is exclusief."
+      ]
+    },
+    "SEA_EXCURSIONS": {
+      "TITLE": "Zeexcursies",
+      "SNORKELING": {
+        "TITLE": "Snorkelen",
+        "POINTS": [
+          "Neem zwemkleding, strandlakens van het hotel, zonnebril, zonnebrandcrème, camera, geld (drankjes op het eiland zijn niet inbegrepen) en een jas voor over uw kleding in de middag.",
+          "Als een bezoek aan het eiland niet mogelijk is, vindt er een extra snorkelsessie vanaf de boot plaats.",
+          "Bij het ophalen ontvangt u een veiligheidsformulier dat u moet lezen en ondertekenen.",
+          "Er gelden verschillende milieuheffingen voor zeexcursies."
+        ]
+      },
+      "GLASS_BOAT": {
+        "TITLE": "Boot met glazen bodem",
+        "POINTS": [
+          "Neem zonnebrandcrème, bril, waterfles en camera mee."
+        ]
+      }
+    },
+    "DESERT_EXCURSIONS": {
+      "TITLE": "Woestijnexcursies",
+      "POINTS": [
+        "Draag comfortabele kleding, stevige schoenen, zonnebril, zonnebrandcrème, camera, water voor de reis en kleingeld voor souvenirs.",
+        "Voor excursies die tot in de avond duren, heeft u iets nodig om over uw kleding te dragen.",
+        "Gasten met rugproblemen of problemen met de wervelkolom/schijven, evenals zwangere vrouwen, mogen niet deelnemen.",
+        "Quad is alleen voor één persoon.",
+        "Quad rijden is niet toegestaan voor personen onder 16 jaar.",
+        "Bij het ophalen ontvangt u een veiligheidsformulier dat u moet lezen en ondertekenen.",
+        "Kameelrijden is niet toegestaan voor mensen met overgewicht.",
+        "Er gelden verschillende milieuheffingen voor woestijnexcursies."
+      ]
+    },
+    "GENERAL_NOTES": {
+      "TITLE": "Algemene opmerkingen",
+      "POINTS": [
+        "Verzamelpunt voor alle excursies is het ingangsgedeelte voor uw hotel.",
+        "Zorg ervoor dat u het rode exemplaar van uw excursieticket meeneemt. Uw gids verzamelt dit vóór vertrek.",
+        "Drankjes bij maaltijden zijn niet inbegrepen in de prijs.",
+        "Toegang tot de Mummiekamer van het museum, het graf van Toetanchamon en piramide-begraafkamers is niet inbegrepen.",
+        "Laat geen waardevolle spullen (camera, geld) achter in de bus tijdens sightseeing.",
+        "Wijzigingen in het reisschema kunnen kort van tevoren plaatsvinden, maar het karakter van de excursie blijft natuurlijk behouden."
+      ]
+    },
+    "RESPONSIBILITY": "De verantwoordelijkheid voor organisatie en uitvoering ligt bij het lokale bureau Cairo Express Travel",
+    "CONFIRMATION": "Hiermee bevestigt u dat u de bovengenoemde excursie boekt bij de lokale excursieoperator CET Cairo Express Travel voor de bovengenoemde deelnemers. U heeft begrepen dat dit geen dienst of aanbod is van de pakketreisorganisatie waarmee u uw vakantie hebt geboekt in Egypte.",
+    "ENJOY": "Geniet van uw excursie!",
+    "TEAM_GREETING": "Uw CET-team wenst u een leuke excursie en veel plezier!!!",
+    "CONTACT_INFO": "Voor vragen, speciale verzoeken of klachten kunt u contact opnemen met het onderstaande adres.",
+    "EMAIL": "Email: cetservice@cairoexpresstravel.com",
+    "QR_CODE": "of scan de QR-code"
+  },
+  "LANGUAGE_SELECTOR": {
+    "TITLE": "Taalinstellingen",
+    "SUBTITLE": "Kies uw voorkeurstaal",
+    "SEARCH_PLACEHOLDER": "Zoek talen...",
+    "RECENT": "Recent gebruikt",
+    "ALL_LANGUAGES": "Alle talen",
+    "ACTIVE": "Actief",
+    "NO_RESULTS": "Geen talen gevonden",
+    "NO_RESULTS_DESC": "Probeer uw zoektermen aan te passen",
+    "FOOTER_INFO": "Wijzigingen worden direct toegepast"
+  }
+}

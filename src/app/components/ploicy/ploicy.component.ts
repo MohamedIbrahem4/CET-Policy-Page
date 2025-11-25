@@ -121,7 +121,13 @@ export class PloicyComponent {
     nativeName: 'Čeština',
     flag: '🇨🇿',
     info: 'West Slavic language'
-  }
+  },{
+      code: 'nl',
+      name: 'Dutch',
+      nativeName: 'Nederlands',
+      flag: '🇳🇱',
+      info: 'Germanic language'
+    },
   ];
 
 
