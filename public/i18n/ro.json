@@ -1,0 +1,122 @@
+{
+  "EXCURSION_POLICY": {
+    "TITLE": "Informații utile pentru toate excursiile",
+    "GENERAL_INFO": "Informații generale",
+    "SPECIFIC_EXCURSIONS": "Informații specifice excursiilor",
+    "CONTACT": "Contact",
+    "POINTS": {
+      "1": "Vă rugăm să verificați dacă data de pe biletul de excursie este corectă.",
+      "2": "Dacă ați schimbat camera sau hotelul față de cele menționate pe bilet, vă rugăm să informați ghidul hotelului pentru a actualiza datele.",
+      "3": "Preluarea pentru toate excursiile se face în fața intrării hotelului dumneavoastră.",
+      "4": "Pentru preluările înainte de ora 07:30, vă rugăm să solicitați la recepție, cel târziu până la ora 18:00, serviciul de trezire și să vă interesați de posibilitățile de a lua micul dejun.",
+      "5": "Pentru excursiile care includ zbor sau cazare peste noapte și pentru excursiile în Peninsula Sinai este necesar pașaportul. Vă rugăm să purtați pantaloni lungi la vizitarea mănăstirii.",
+      "6": "Băuturile servite la mese nu sunt incluse în preț.",
+      "7": "Vă rugăm să nu lăsați obiecte de valoare (aparat foto, bani etc.) în autocar în timpul vizitelor.",
+      "8": "Vă rugăm să aveți la dumneavoastră: apă potabilă, cremă de protecție solară, încălțăminte comodă, pălărie sau șapcă și, pentru călătoriile lungi, o pernă mică.",
+      "9": "Pentru excursiile care durează până seara, este recomandat să luați și o haină mai groasă.",
+      "10": "La înscrierea la excursiile în deșert și la cele de snorkeling veți primi o declarație de securitate, pe care vă rugăm să o citiți cu atenție și să o semnați.",
+      "11": "La excursiile cu ATV (quad) și safari nu pot participa oaspeții cu probleme de spate sau de coloană vertebrală (coloană, discuri intervertebrale) și femeile însărcinate.",
+      "12": "În caz de anulare sau modificare, vă rugăm să informați ghidul în timp util. În cazul anulării după rezervare și până cu o zi înainte de începerea excursiei, agenția își rezervă dreptul de a percepe următoarele taxe de anulare:",
+      "13": "În cazul anulării în ziua excursiei sau ulterior, nu se returnează nicio sumă.",
+      "14": "Ne rezervăm dreptul de a modifica programul; cu toate acestea, caracterul și conținutul excursiei rămân întotdeauna în totalitate neschimbate.",
+      "15": "La unele excursii pot apărea taxe de plătit la fața locului, despre care veți fi informat în prealabil de către ghid în momentul rezervării."
+    },
+    "CANCELLATION_FEES": {
+      "TITLE": "Taxe de anulare",
+      "EXCURSION": "Excursie",
+      "80_PERCENT": "Cairo și Luxor cu avionul",
+      "NO_REFUND": "Tur de cumpărături (shopping tour)",
+      "NON_REFUNDABLE": "Nerambursabil",
+      "50_PERCENT": "Toate celelalte excursii"
+    },
+    "BUS_TRIP": {
+      "TITLE": "Excursie cu autocarul la Cairo sau Luxor",
+      "POINTS": [
+        "În ziua precedentă excursiei, vă rugăm să comandați la recepție serviciul de trezire, pachetul pentru micul dejun și cina târzie.",
+        "Se recomandă îmbrăcăminte comodă, încălțăminte închisă, o pernă, sticlă cu apă, cremă de protecție solară, ochelari de soare, aparat foto, precum și bani în numerar pentru băuturi și suveniruri.",
+        "Aerul condiționat din autocar poate fi răcoros, de aceea vă recomandăm să luați o haină ușoară.",
+        "Dacă ați rezervat excursia cu zbor sau cu cazare peste noapte, veți avea nevoie de pașaport sau de carte de identitate.",
+        "Intrarea în sala mumiilor a muzeului, în mormântul lui Tutankhamon și în camerele funerare ale piramidelor nu este inclusă în preț și se plătește separat."
+      ]
+    },
+    "SEA_EXCURSIONS": {
+      "TITLE": "Excursii pe mare",
+      "SNORKELING": {
+        "TITLE": "Snorkeling",
+        "POINTS": [
+          "Luați cu dumneavoastră costum de baie, prosoape de plajă de la hotel, ochelari de soare, cremă de protecție solară, aparat foto, bani (băuturile consumate pe insulă nu sunt incluse în preț) și o jachetă sau un pulover pentru după-amiază, când poate fi mai răcoare.",
+          "Dacă vizitarea insulei nu este posibilă, se va organiza în schimb o altă sesiune de snorkeling de pe barcă.",
+          "La îmbarcare veți primi o declarație de securitate, pe care trebuie să o citiți cu atenție și să o semnați.",
+          "Pentru excursiile pe mare se aplică taxe de mediu diferite."
+        ]
+      },
+      "GLASS_BOAT": {
+        "TITLE": "Barcă cu fund de sticlă",
+        "POINTS": [
+          "Luați cu dumneavoastră cremă de protecție solară, ochelari de soare, apă și aparat foto."
+        ]
+      }
+    },
+    "DESERT_EXCURSIONS": {
+      "TITLE": "Excursii în deșert",
+      "POINTS": [
+        "Purtați haine comode și încălțăminte închisă; luați ochelari de soare, cremă de protecție solară, aparat foto, apă pentru drumul de dus și monede pentru suveniruri.",
+        "Pentru excursiile care durează până seara, luați o haină mai groasă.",
+        "Oaspeții cu dureri de spate sau cu probleme ale coloanei vertebrale / discurilor intervertebrale, precum și femeile însărcinate, nu pot participa la acest tip de excursie.",
+        "ATV-ul (quad) este destinat unei singure persoane.",
+        "Conducerea ATV-ului (quad) nu este permisă persoanelor sub 16 ani.",
+        "La preluare veți primi o declarație de securitate, pe care trebuie să o citiți cu atenție și să o semnați.",
+        "Plimbarea cu cămila nu este permisă persoanelor supraponderale.",
+        "Pentru excursiile în deșert se aplică taxe de mediu diferite."
+      ]
+    },
+    "FLIGHT_CAIRO": {
+      "TITLE": "Cairo cu avionul",
+      "INTRO": "Această excursie include zboruri interne operate de companii aeriene egiptene. Mai jos sunt prezentate regulile privind întârzierile zborurilor interne din Egipt:",
+      "POINTS": [
+        "Toate serviciile oferite pe durata întârzierii unui zbor (răcoritoare, mese, cazare, reprogramări) sunt asigurate exclusiv de compania aeriană operatoare, în conformitate cu reglementările locale și cu regulile interne ale companiei.",
+        "Pentru întârzierile zborurilor interne nu se acordă despăgubiri financiare."
+      ],
+      "GUIDELINES_TITLE": "Reguli generale (pot varia în funcție de compania aeriană):",
+      "GUIDELINES": [
+        "Întârziere de 2–3 ore: pot fi oferite apă sau băuturi răcoritoare.",
+        "Întârziere de peste 3 ore: pot fi oferite gustări sau băuturi răcoritoare.",
+        "Întârziere de peste 6 ore: poate fi oferită reprogramarea sau cazarea (în funcție de politica companiei aeriene)."
+      ],
+      "MORE_POINTS": [
+        "În caz de condiții meteorologice nefavorabile, restricții impuse de controlul traficului aerian, controale de securitate sau alte circumstanțe excepționale, nu se acordă servicii suplimentare.",
+        "CET vă va ajuta în măsura posibilităților cu informații și coordonare. După efectuarea check-in-ului, însă, pasagerii se află în zona de securitate a aeroportului, unde personalul CET nu are acces, și este posibil să nu primească informații actualizate despre întârziere. În astfel de cazuri, vă rugăm să apelați linia de asistență CET.",
+        "Operarea zborurilor este responsabilitatea exclusivă a companiei aeriene respective."
+      ]
+    },
+    "GENERAL_NOTES": {
+      "TITLE": "Note generale",
+      "POINTS": [
+        "Punctul de întâlnire pentru toate excursiile este zona de la intrarea hotelului dumneavoastră.",
+        "Vă rugăm să nu uitați să aveți la dumneavoastră copia roșie a biletului de excursie. Ghidul o va colecta înainte de plecare.",
+        "Băuturile servite la mese nu sunt incluse în preț.",
+        "Intrarea în sala mumiilor a muzeului, în mormântul lui Tutankhamon și în camerele funerare ale piramidelor nu este inclusă în preț.",
+        "Vă rugăm să nu lăsați obiecte de valoare (aparat foto, bani) în autocar în timpul vizitelor.",
+        "Ne rezervăm dreptul de a modifica programul; cu toate acestea, caracterul și conținutul excursiei rămân întotdeauna în totalitate neschimbate."
+      ]
+    },
+    "RESPONSIBILITY": "Responsabilitatea pentru organizarea și desfășurarea acestei excursii revine agenției locale Cairo Express Travel (CET).",
+    "CONFIRMATION": "Prin prezenta confirmați că rezervați în mod ferm excursia menționată mai sus la organizatorul local de excursii CET Cairo Express Travel, pentru participanții menționați mai sus. Luați act de faptul că aceasta nu reprezintă un serviciu sau o ofertă a organizatorului de pachete turistice la care ați rezervat vacanța în Egipt.",
+    "ENJOY": "Excursie plăcută!",
+    "TEAM_GREETING": "Echipa dumneavoastră CET vă urează o excursie plăcută și multă distracție!",
+    "CONTACT_INFO": "Pentru întrebări, solicitări speciale sau reclamații, vă rugăm să ne contactați la adresa de mai jos.",
+    "EMAIL": "E-mail: cetservice@cairoexpresstravel.com",
+    "QR_CODE": "sau scanați codul QR."
+  },
+  "LANGUAGE_SELECTOR": {
+    "TITLE": "Setări de limbă",
+    "SUBTITLE": "Alegeți limba preferată",
+    "SEARCH_PLACEHOLDER": "Căutați limbi...",
+    "RECENT": "Utilizate recent",
+    "ALL_LANGUAGES": "Toate limbile",
+    "ACTIVE": "Activ",
+    "NO_RESULTS": "Nu s-a găsit nicio limbă",
+    "NO_RESULTS_DESC": "Încercați să modificați termenii de căutare",
+    "FOOTER_INFO": "Modificările se aplică imediat"
+  }
+}

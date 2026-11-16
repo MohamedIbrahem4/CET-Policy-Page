@@ -1,101 +1,124 @@
 {
   "EXCURSION_POLICY": {
-    "TITLE": "Užitočné Informácie pre Všetky Výlety",
-    "GENERAL_INFO": "Všeobecné Informácie",
-    "SPECIFIC_EXCURSIONS": "Informácie o Konkrétnych Výletoch",
-    "CONTACT": "Kontaktné Informácie",
+    "TITLE": "Užitočné informácie pre všetky výlety",
+    "GENERAL_INFO": "Všeobecné informácie",
+    "SPECIFIC_EXCURSIONS": "Informácie k jednotlivým výletom",
+    "CONTACT": "Kontakt",
     "POINTS": {
-      "1": "Uistite sa, prosím, že dátum na lístku na výlet je správne napísaný.",
-      "2": "Ak ste zmenili izbu alebo hotel oproti tomu, čo je uvedené na lístku, kontaktujte, prosím, hotelového sprievodcu, aby zmenu vykonal.",
-      "3": "Vyzdvihnutie pre všetky výlety prebieha vo vstupnej oblasti vášho hotela.",
-      "4": "Pri vyzdvihnutí pred 07:30, požiadajte, prosím, o budenie na recepcii do 18:00 a informujte sa o možnostiach raňajok.",
-      "5": "Pre výlety s lety alebo prenocovaniami a cesty na Sinajský polostrov potrebujete váš pas. Prosím, noste dlhé nohavice pri návšteve kláštora.",
-      "6": "Nápoje pri jedlách nie sú zahrnuté v cene.",
-      "7": "Počas prehliadky nenechávajte, prosím, cennosti (fotoaparát, peniaze atď.) v autobuse.",
-      "8": "Pamätajte, prosím: fľaše s vodou, opaľovací krém, pohodlné topánky, pokrývku hlavy a pre dlhé cesty vankúš.",
-      "9": "Pre výlety, ktoré trvajú do večera, potrebujete niečo na oblečenie navrch.",
-      "10": "Pre púštne výlety a šnorchlovanie dostanete bezpečnostný formulár, ktorý by ste mali prečítať a podpísať.",
-      "11": "Pre výlety na quadoch a safari: hostia trpiaci problémami s chrbticou (chrbtica/medzistavcové platničky) a tehotné ženy sa nesmú zúčastniť takýchto výletov.",
-      "12": "V prípade zrušenia alebo prebookovania informujte, prosím, svojho sprievodcu včas - Za zrušenia po rezervácii a do jedného dňa pred začiatkom výletu si agentúra vyhradzuje tieto storno poplatky:",
-      "13": "Za zrušenia v deň výletu sa nič nevráti.",
-      "14": "Zmeny v cestovnom pláne podliehajú krátkodobým zmenám, ale charakter výletu sa samozrejme úplne zachová.",
-      "15": "Za niektoré výlety sa poplatky musia platiť na mieste, o čom vás samozrejme informuje sprievodca pri rezervácii."
+      "1": "Prosím, uistite sa, že dátum na vašom lístku na výlet je správny.",
+      "2": "Ak ste zmenili izbu alebo hotel oproti dátumu uvedenému na vašom lístku, informujte o tom sprievodcu vášho hotela, aby aktualizoval informácie.",
+      "3": "Vyzdvihnutie na všetky výlety sa uskutočňuje pred vchodom do vášho hotela.",
+      "4": "Ak vás vyzdvihnú pred 7:30, požiadajte o budenie na recepcii do 18:00 a informujte sa o možnostiach raňajok.",
+      "5": "Na výlety zahŕňajúce lety alebo prenocovanie a na výlety na Sinajský polostrov budete potrebovať cestovný pas. Pri návšteve kláštora si prosím oblečte dlhé nohavice.",
+      "6": "Nápoje nie sú zahrnuté v cene jedál.",
+      "7": "Počas zájazdu nenechávajte v autobuse cennosti (fotoaparát, peniaze atď.).",
+      "8": "Nezabudnite si so sebou vziať: fľaše s vodou, opaľovací krém, pohodlnú obuv, klobúk a vankúš na dlhé cesty.",
+      "9": "Pri výletoch, ktoré trvajú do večera, budete potrebovať niečo, čo si prehodíte cez seba.",
+      "10": "Pri vyzdvihnutí na výlety do púšte a šnorchlovanie dostanete bezpečnostný formulár, ktorý si prečítajte a podpíšte.",
+      "11": "Pre výlety na štvorkolkách a safari: Hostia s problémami s chrbtom (chrbtica/medzistavcové platničky) a tehotné ženy sa nemôžu zúčastniť.",
+      "12": "V prípade zrušenia alebo zmeny rezervácie informujte, prosím, svojho sprievodcu včas. V prípade zrušenia po rezervácii a do jedného dňa pred výletom si agentúra vyhradzuje právo účtovať nasledujúce storno poplatky:",
+      "13": "Stornovanie rezervácií uskutočnené v deň výletu alebo po ňom je samozrejme nevratné.",
+      "14": "Zmeny itinerára sú možné v krátkom čase; celkový plán výletu však zostane nezmenený.",
+      "15": "Niektoré výlety vyžadujú miestne poplatky, ktoré sa platia na mieste. O týchto poplatkoch vás bude informovať váš sprievodca pri rezervácii."
     },
     "CANCELLATION_FEES": {
-      "TITLE": "Storno Poplatky",
+      "TITLE": "Storno poplatky",
+      "EXCURSION": "Výlet",
       "80_PERCENT": "Káhira a Luxor lietadlom",
-      "NO_REFUND": "Nákupná výlet",
+      "NO_REFUND": "Shopping Tour",
+      "NON_REFUNDABLE": "Nevratné",
       "50_PERCENT": "Všetky ostatné výlety"
     },
     "BUS_TRIP": {
-      "TITLE": "Cesta Autobusom do Káhiry alebo Luxoru",
+      "TITLE": "Autobusový výlet do Káhiry alebo Luxoru",
       "POINTS": [
-        "Deň pred výletom si, prosím, objednajte budenie, raňajkovú schránku a neskorú večeru na recepcii.",
-        "Vezmite si pohodlné oblečenie, pevné topánky, vankúš, fľašu s vodou, opaľovací krém, slnečné okuliare, fotoaparát, krém, peniaze na nápoje a suveníry.",
-        "Klimatizácia v autobuse môže byť chladná, takže si vezmite niečo na oblečenie navrch.",
-        "Ak ste si výlet rezervovali s letom alebo prenocovaním, budete potrebovať aj pas alebo občiansky preukaz.",
-        "Vstupy do miestnosti múmií múzea, hrobky Tutanchamóna a pohrebných komôr pyramíd sú exkluzívne."
+        "Deň pred výletom si, prosím, nastavte budík a na recepcii si zabezpečte raňajkový balíček a neskorú večeru.",
+        "Pripravte si pohodlné oblečenie a obuv, vankúš, fľašu s vodou, opaľovací krém, slnečné okuliare, fotoaparát, pleťové mlieko a peniaze na nápoje a suveníry.",
+        "Klimatizácia v autobuse môže byť studená, preto si prineste niečo na seba.",
+        "Ak ste si výlet rezervovali s letom alebo prenocovaním, budete potrebovať aj cestovný pas alebo občiansky preukaz.",
+        "Vstupné do Tutanchamónovej hrobky a pohrebných komôr pyramíd nie je zahrnuté v cene.",
+        "Počas návštevy nenechávajte v autobuse cennosti (fotoaparát, peniaze).",
+        "Vstupné do pohrebných komôr pyramíd nie je zahrnuté v cene."
       ]
     },
     "SEA_EXCURSIONS": {
-      "TITLE": "Námorné Výlety",
+      "TITLE": "Námorné výlety",
       "SNORKELING": {
-        "TITLE": "Šnorchlovanie",
+        "TITLE": "Výlet so šnorchlovaním",
         "POINTS": [
-          "Vezmite si plavky, plážové uteráky z hotela, slnečné okuliare, krém, fotoaparát, peniaze (nápoje na ostrove nie sú zahrnuté v cene), bundu na popoludnie.",
-          "Ak návšteva ostrova nie je možná, namiesto toho sa uskutoční ďalšia šnorchlovacia relácia z lode.",
-          "Pri vyzdvihnutí dostanete bezpečnostný formulár, ktorý by ste mali prečítať a podpísať.",
-          "Pre námorné výlety platia rôzne environmentálne poplatky."
+          "Prineste si plavky, plážové osušky z hotela, slnečné okuliare, opaľovací krém, fotoaparát, peniaze (nápoje na ostrove nie sú zahrnuté) a bundu na popoludnie.",
+          "Ak návšteva ostrova nie je možná, namiesto toho uskutočníme iný šnorchlovací výlet z lode.",
+          "Pri vyzdvihnutí dostanete bezpečnostný formulár, ktorý si prečítajte a podpíšte.",
+          "Na rôzne námorné výlety sa vzťahujú rôzne environmentálne poplatky."
         ]
       },
       "GLASS_BOAT": {
-        "TITLE": "Loď so Skleneným Dnom",
+        "TITLE": "Loď so skleneným dnom",
         "POINTS": [
-          "Vezmite si opaľovací krém, okuliare, fľašu s vodou a fotoaparát."
+          "Prineste si opaľovací krém, slnečné okuliare, fľašu s vodou a fotoaparát."
         ]
       }
     },
     "DESERT_EXCURSIONS": {
-      "TITLE": "Púštne Výlety",
+      "TITLE": "Výlety do púšte",
       "POINTS": [
-        "Oblečte si pohodlne, pevné topánky, slnečné okuliare, krém, fotoaparát, vodu na cestu a drobné na suveníry.",
-        "Pre výlety, ktoré trvajú do večera, potrebujete niečo na oblečenie navrch.",
-        "Hostia trpiaci problémami s chrbticou alebo problémami s chrbticou/medzistavcovými platničkami, ako aj tehotné ženy sa nesmú zúčastniť takýchto výletov.",
-        "Quad je len pre jednu osobu.",
-        "Jazda na quade nie je povolená osobám mladším ako 16 rokov.",
-        "Pri vyzdvihnutí dostanete bezpečnostný formulár, ktorý by ste mali prečítať a podpísať.",
+        "Pohodlne sa oblečte, noste pevnú obuv, slnečné okuliare, opaľovací krém, vezmite si fotoaparát, vodu na cestu a drobné na suveníry.",
+        "Pri výletoch, ktoré trvajú do večera, budete potrebovať niečo, čo si prehodíte cez seba.",
+        "Hostia trpiaci problémami s chrbtom alebo chrbticou/platničkami, ako aj tehotné ženy, sa takýchto výletov nemôžu zúčastniť.",
+        "Štvorkolky sú určené len pre jednu osobu.",
+        "Jazda na štvorkolke nie je povolená osobám mladším ako 16 rokov.",
+        "Pri vyzdvihnutí dostanete bezpečnostný formulár, ktorý si musíte prečítať a podpísať.",
         "Jazda na ťave nie je povolená pre osoby s nadváhou.",
-        "Pre púštne výlety platia rôzne environmentálne poplatky."
+        "Na výlety do púšte sa vzťahujú odlišné environmentálne poplatky."
+      ]
+    },
+    "FLIGHT_CAIRO": {
+      "TITLE": "Káhira letecky",
+      "INTRO": "Tento výlet zahŕňa vnútroštátne lety prevádzkované egyptskými leteckými spoločnosťami. Nasledujú pokyny pre riešenie meškaní vnútroštátnych letov v Egypte:",
+      "POINTS": [
+        "Všetky služby počas meškania letu (občerstvenie, strava, ubytovanie, zmena rezervácie) poskytuje výlučne prevádzkujúca letecká spoločnosť v súlade s miestnymi predpismi a internými pravidlami leteckej spoločnosti.",
+        "Za meškanie vnútroštátnych letov sa neposkytuje žiadna finančná kompenzácia."
+      ],
+      "GUIDELINES_TITLE": "Všeobecné pravidlá (v závislosti od leteckej spoločnosti):",
+      "GUIDELINES": [
+        "Meškanie 2–3 hodiny: môže byť ponúknutá voda/občerstvenie.",
+        "Meškanie viac ako 3 hodiny: môže byť poskytnuté občerstvenie.",
+        "Meškanie viac ako 6 hodín: môže byť ponúknutá zmena rezervácie alebo ubytovanie (v závislosti od pravidiel leteckej spoločnosti)."
+      ],
+      "MORE_POINTS": [
+        "V prípade nepriaznivého počasia, obmedzení riadenia letovej prevádzky, bezpečnostných kontrol alebo iných mimoriadnych okolností sa neposkytujú žiadne ďalšie služby.",
+        "CET vám poskytne čo najlepšiu podporu s informáciami a koordináciou. Po registrácii sa však hostia nachádzajú v zabezpečenej oblasti letiska, do ktorej zamestnanci CET nemajú prístup a nemusia byť schopní dostávať aktuálne informácie. V takýchto prípadoch kontaktujte našu horúcu linku CET.",
+        "Za prevádzku letov zodpovedá výlučne príslušná letecká spoločnosť."
       ]
     },
     "GENERAL_NOTES": {
-      "TITLE": "Všeobecné Poznámky",
+      "TITLE": "Všeobecné poznámky",
       "POINTS": [
-        "Miesto stretnutia pre všetky výlety je vstupná oblasť pred vaším hotelom.",
-        "Nezabudnite si vziať červenú kópiu lístka na výlet. Váš sprievodca ju vyzbiera pred odchodom.",
-        "Nápoje pri jedlách nie sú zahrnuté v cene",
-        "Vstupy do miestnosti múmií múzea, hrobky Tutanchamóna a pohrebných komôr pyramíd nie sú zahrnuté v cene.",
-        "Počas prehliadky nenechávajte, prosím, cennosti (fotoaparát, peniaze) v autobuse.",
-        "Zmeny v cestovnom pláne podliehajú krátkodobým zmenám, ale charakter výletu sa samozrejme úplne zachová."
+        "Miestom stretnutia pri všetkých výletoch je priestor pred vchodom do vášho hotela.",
+        "Nezabudnite si so sebou vziať červenú kópiu lístka na výlet. Váš sprievodca ju pred odchodom vyberie.",
+        "Nápoje nie sú zahrnuté v cene jedál.",
+        "Vstupné do múmiovej siene múzea, do Tutanchamónovej hrobky a do pohrebných komôr pyramíd nie je zahrnuté v cene.",
+        "Počas prehliadky nenechávajte v autobuse cennosti (fotoaparát, peniaze).",
+        "Zmeny itinerára sú možné v krátkom čase; celkový plán výletu však zostane nezmenený."
       ]
     },
-    "RESPONSIBILITY": "Zodpovednosť za organizáciu a realizáciu nesie miestna agentúra Cairo Express Travel",
-    "CONFIRMATION": "Týmto potvrdzujete, že rezervujete vyššie uvedený výlet u miestneho operátora výletov CET Cairo Express Travel pre vyššie uvedených účastníkov výletu. Vzali ste na vedomie, že nejde o službu a ponuku organizátora zájazdu, u ktorého som si rezervoval svoju zájazdovú dovolenku v Egypte.",
-    "ENJOY": "Užite si výlet!",
-    "TEAM_GREETING": "Váš tím CET vám želá príjemný výlet a veľa zábavy!!!",
-    "CONTACT_INFO": "Pre otázky, špeciálne požiadavky alebo sťažnosti, kontaktujte, prosím, nižšie uvedenú adresu.",
-    "EMAIL": "Email: cetservice@cairoexpresstravel.com",
-    "QR_CODE": "alebo naskenujte QR kód"
+    "RESPONSIBILITY": "Za organizáciu a realizáciu tohto výletu je zodpovedná miestna agentúra Cairo Express Travel.",
+    "CONFIRMATION": "Týmto potvrdzujete, že si pre vyššie uvedených účastníkov záväzne rezervujete vyššie uvedený výlet u miestnej cestovnej kancelárie CET Cairo Express Travel. Beriete na vedomie, že toto nie je služba ani ponuka poskytovaná cestovnou kanceláriou, u ktorej ste si rezervovali zájazd do Egypta.",
+    "ENJOY": "Príjemný výlet!",
+    "TEAM_GREETING": "Váš tím CET vám praje príjemný výlet a veľa zábavy!",
+    "CONTACT_INFO": "V prípade otázok, špeciálnych požiadaviek alebo sťažností nás, prosím, kontaktujte na nižšie uvedenej adrese.",
+    "EMAIL": "E-mail: cetservice@cairoexpresstravel.com",
+    "QR_CODE": "alebo naskenujte QR kód."
   },
   "LANGUAGE_SELECTOR": {
-    "TITLE": "Nastavenia Jazyka",
-    "SUBTITLE": "Vyberte preferovaný jazyk",
+    "TITLE": "Jazykové nastavenia",
+    "SUBTITLE": "Vyberte si preferovaný jazyk",
     "SEARCH_PLACEHOLDER": "Hľadať jazyky...",
-    "RECENT": "Naposledy použité",
-    "ALL_LANGUAGES": "Všetky Jazyky",
+    "RECENT": "Nedávno použité",
+    "ALL_LANGUAGES": "Všetky jazyky",
     "ACTIVE": "Aktívny",
     "NO_RESULTS": "Nenašli sa žiadne jazyky",
-    "NO_RESULTS_DESC": "Skúste upraviť vyhľadávacie výrazy",
-    "FOOTER_INFO": "Zmeny sa prejavia okamžite"
+    "NO_RESULTS_DESC": "Skúste upraviť hľadané výrazy",
+    "FOOTER_INFO": "Zmeny sa použijú okamžite"
   }
 }

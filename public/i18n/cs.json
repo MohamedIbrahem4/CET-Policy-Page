@@ -1,98 +1,120 @@
 {
   "EXCURSION_POLICY": {
-    "TITLE": "Užitečné Informace pro Všechny Výlety",
-    "GENERAL_INFO": "Obecné Informace",
-    "SPECIFIC_EXCURSIONS": "Informace o Konkrétních Výletech",
-    "CONTACT": "Kontaktní Informace",
+    "TITLE": "Užitečné informace ke všem výletům",
+    "GENERAL_INFO": "Obecné informace",
+    "SPECIFIC_EXCURSIONS": "Informace k jednotlivým výletům",
+    "CONTACT": "Kontakt",
     "POINTS": {
-      "1": "Ujistěte se prosím, že datum na výletní jízdence je správně napsáno.",
-      "2": "Pokud jste změnili pokoj nebo hotel oproti tomu, co je uvedeno na jízdence, kontaktujte prosím svého hotelového průvodce, aby změnu provedl.",
-      "3": "Vyzvednutí pro všechny výlety probíhá ve vstupní oblasti vašeho hotelu.",
-      "4": "Při vyzvednutí před 07:30, požádejte prosím o budící hovor na recepci do 18:00 a informujte se o možnostech snídaně.",
-      "5": "Pro výlety s lety nebo přenocováním a cesty na Sinajský poloostrov potřebujete svůj pas. Prosím, noste dlouhé kalhoty při návštěvě kláštera.",
-      "6": "Nápoje k jídlům nejsou zahrnuty v ceně.",
-      "7": "Během prohlídky nenechávejte prosím cennosti (fotoaparát, peníze atd.) v autobusu.",
-      "8": "Pamatujte prosím: láhve na vodu, opalovací krém, pohodlné boty, pokrývku hlavy a pro dlouhé cesty polštář.",
-      "9": "Pro výlety, které trvají do večera, potřebujete něco, co si můžete obléct přes oblečení.",
-      "10": "Pro pouštní a šnorchlování výlety obdržíte bezpečnostní formulář, který byste měli přečíst a podepsat.",
-      "11": "Pro čtyřkolky a safari výlety: hosté trpící problémy se zády (páteř/ploténky) a těhotné ženy se nesmějí takových výletů účastnit.",
-      "12": "V případě zrušení nebo přebookování informujte prosím svého průvodce včas - Za zrušení po rezervaci a do jednoho dne před začátkem výletu si agentura vyhrazuje následující storno poplatky:",
-      "13": "Za zrušení v den výletu se nic nevrací.",
-      "14": "Změny v cestovním plánu podléhají krátkodobým změnám, ale charakter výletu se samozřejmě plně zachová.",
-      "15": "Za některé výlety musí být poplatky placeny na místě, o čemž vás samozřejmě průvodce informuje při rezervaci."
+      "1": "Kontrola dokladů: ujistěte se prosím, že datum uvedené na vaší vstupence (výletním lístku) je správné.",
+      "2": "Změna ubytování: pokud jste změnili pokoj nebo hotel oproti údajům na vstupence, nahlaste to prosím svému delegátovi, aby mohl údaje aktualizovat.",
+      "3": "Místo srazu: odjezd na všechny výlety je vždy od hlavního vchodu do vašeho hotelu.",
+      "4": "Brzké výjezdy: pokud je odjezd na výlet plánován před 07:30, nahlaste prosím na recepci požadavek na buzení a informujte se o možnosti snídaně (balíčku – breakfast box) nejpozději do 18:00 předchozího dne.",
+      "5": "Cestovní doklady a oděv: na výlety spojené s přeletem, přenocováním nebo při cestách na Sinajský poloostrov je nutný cestovní pas. Při návštěvě kláštera prosím dbejte na vhodné oblečení (dlouhé kalhoty).",
+      "6": "Nápoje: nápoje během jídla, zpravidla obědu, nejsou zahrnuty v ceně výletu.",
+      "7": "Bezpečnost: během prohlídek nenechávejte v autobuse žádné cennosti (fotoaparáty, peníze apod.).",
+      "8": "Co s sebou: nezapomeňte si vzít vodu, opalovací krém, pohodlnou obuv, pokrývku hlavy a při delších cestách doporučujeme i polštářek.",
+      "9": "Oblečení: u výletů, které trvají až do večera, doporučujeme vzít si s sebou něco teplejšího na převlečení.",
+      "10": "Bezpečnostní formulář: při zahájení výletů do pouště nebo za šnorchlováním obdržíte bezpečnostní formulář, který je nutné si přečíst a podepsat.",
+      "11": "Čtyřkolky & Safari: účast na safari a jízdě na čtyřkolkách není povolena osobám s potížemi zad (páteř, plotýnky) a těhotným ženám.",
+      "12": "Storna a změny: o případném zrušení nebo změně termínu informujte prosím včas svého hotelového delegáta. Při zrušení výletu po jeho zakoupení až do jednoho dne před zahájením si agentura vyhrazuje právo účtovat následující stornopoplatky:",
+      "13": "Storno v den výletu: při zrušení výletu v den jeho konání nebo po jeho uskutečnění se zaplacená částka nevrací.",
+      "14": "Změny programu: vyhrazujeme si právo na krátkodobé změny v itineráři výletu. Samotný charakter výletu a jeho plný rozsah však zůstanou samozřejmě zachovány.",
+      "15": "Poplatky na místě: u některých výletů je nutné uhradit dodatečné poplatky přímo na místě (např. vjezdové poplatky, speciální vstupné). O této skutečnosti vás bude váš delegát samozřejmě informovat již při rezervaci výletu."
     },
     "CANCELLATION_FEES": {
-      "TITLE": "Storno Poplatky",
-      "80_PERCENT": "Káhira a Luxor letadlem",
-      "NO_REFUND": "Nákupní výlet",
+      "TITLE": "Stornopoplatky",
+      "EXCURSION": "Výlet",
+      "80_PERCENT": "Káhira a Luxor letecky",
+      "NO_REFUND": "Nákupy",
+      "NON_REFUNDABLE": "Nevratné",
       "50_PERCENT": "Všechny ostatní výlety"
     },
     "BUS_TRIP": {
-      "TITLE": "Autobusový Výlet do Káhiry nebo Luxoru",
+      "TITLE": "Autobusové výlety do Káhiry nebo Luxoru",
       "POINTS": [
-        "Den před výletem si prosím objednejte budící hovor, snídaňový box a pozdní večeři na recepci.",
-        "Vezměte si pohodlné oblečení, pevné boty, polštář, láhev na vodu, opalovací krém, sluneční brýle, fotoaparát, krém, peníze na nápoje a suvenýry.",
-        "Klimatizace v autobuse může být chladná, takže si vezměte něco, co si můžete obléct přes oblečení.",
-        "Pokud jste si výlet rezervovali s letem nebo přenocováním, budete potřebovat také svůj pas nebo občanský průkaz.",
-        "Vstupy do síně mumií muzea, hrobky Tutanchamona a pohřebních komor pyramid jsou exkluzivní."
+        "Příprava v hotelu: 1 den před výletem si prosím na recepci objednejte buzení, snídaňový balíček a pozdní večeři (breakfast box and late dinner).",
+        "Co si vzít s sebou: pohodlné oblečení, pevná obuv, polštářek, voda, opalovací krém, sluneční brýle, fotoaparát a hotovost na nápoje a suvenýry.",
+        "Klimatizace: klimatizace v autobuse může být velmi intenzivní, doporučujeme vzít si něco na převlečení.",
+        "Doklady: pokud máte rezervovaný výlet letecky nebo s přenocováním, budete nezbytně potřebovat cestovní pas.",
+        "Vstupné: vstupy do Tutanchamonovy hrobky a do vnitřních prostor pyramid nejsou zahrnuty v ceně výletu a jsou fakultativní.",
+        "Bezpečnost: během prohlídek nenechávejte v autobuse žádné cennosti (fotoaparáty, peníze).",
+        "Upozornění: vstupy do pohřebních komor pyramid jsou fakultativní a hradí se zvlášť."
       ]
     },
     "SEA_EXCURSIONS": {
-      "TITLE": "Námořní Výlety",
+      "TITLE": "Výlety na moře",
       "SNORKELING": {
-        "TITLE": "Šnorchlování",
+        "TITLE": "Výlety za šnorchlováním",
         "POINTS": [
-          "Vezměte si plavky, plážové ručníky z hotelu, sluneční brýle, krém, fotoaparát, peníze (nápoje na ostrově nejsou zahrnuty v ceně), bundu na odpoledne.",
-          "Pokud návštěva ostrova není možná, místo toho proběhne další šnorchlování z lodi.",
-          "Při vyzvednutí obdržíte bezpečnostní formulář, který byste měli přečíst a podepsat.",
-          "Pro námořní výlety platí různé environmentální poplatky."
+          "Co si vzít s sebou: plavky, osušku, sluneční brýle, opalovací krém, fotoaparát, hotovost (nápoje na ostrově nejsou zahrnuty v ceně).",
+          "Změna programu: pokud nebude možná návštěva ostrova, proběhne místo ní další šnorchlování přímo z lodi.",
+          "Bezpečnost: při odjezdu obdržíte bezpečnostní formulář, který je nutné si přečíst a podepsat.",
+          "Poplatky: u výletů na moře je vyžadována úhrada ekologického poplatku (v různé výši dle lokality)."
         ]
       },
       "GLASS_BOAT": {
-        "TITLE": "Loď se Skleněným Dnem",
+        "TITLE": "Glassboat (loď s proskleným dnem)",
         "POINTS": [
-          "Vezměte si opalovací krém, brýle, láhev na vodu a fotoaparát."
+          "Co si vzít s sebou: opalovací krém, brýle, lahev vody a fotoaparát."
         ]
       }
     },
     "DESERT_EXCURSIONS": {
-      "TITLE": "Pouštní Výlety",
+      "TITLE": "Výlety do pouště",
       "POINTS": [
-        "Oblečte si pohodlně, pevné boty, sluneční brýle, krém, fotoaparát, vodu na cestu a drobné na suvenýry.",
-        "Pro výlety, které trvají do večera, potřebujete něco, co si můžete obléct přes oblečení.",
-        "Hosté trpící problémy se zády nebo problémy s páteří/ploténkami, stejně jako těhotné ženy se nesmějí takových výletů účastnit.",
-        "Čtyřkolka je pouze pro jednu osobu.",
-        "Jízda na čtyřkolce není povolena osobám mladším 16 let.",
-        "Při vyzvednutí obdržíte bezpečnostní formulář, který byste měli přečíst a podepsat.",
-        "Jízda na velbloudu není povolena pro osoby s nadváhou.",
-        "Pro pouštní výlety platí různé environmentální poplatky."
+        "Doporučení: pohodlné oblečení, pevná obuv, sluneční brýle, opalovací krém, fotoaparát, voda na cestu a drobné na suvenýry.",
+        "Oblečení: u výletů, které trvají do večerních hodin, si vezměte něco teplejšího na převlečení.",
+        "Zdravotní omezení: osoby s potížemi zad a páteře (vč. plotének) a těhotné ženy se těchto výletů nesmí účastnit.",
+        "Čtyřkolky (Quad): čtyřkolka je určena pouze pro jednu osobu. Řízení čtyřkolky není povoleno osobám mladším 16 let.",
+        "Bezpečnost: při odjezdu obdržíte bezpečnostní formulář k přečtení a podpisu.",
+        "Omezení: jízda na velbloudech není povolena osobám s nadváhou.",
+        "Poplatky: u výletů do pouště je vyžadována úhrada ekologického poplatku."
+      ]
+    },
+    "FLIGHT_CAIRO": {
+      "TITLE": "Káhira letecky",
+      "INTRO": "Tento výlet zahrnuje vnitrostátní lety provozované egyptskými leteckými společnostmi. Níže naleznete pravidla pro postup při zpoždění vnitrostátních letů v Egyptě:",
+      "POINTS": [
+        "Zajištění služeb: veškeré služby během zpoždění letu (občerstvení, jídlo, ubytování, přesměrování letu) poskytuje výhradně provozující letecká společnost v souladu s místními předpisy a svými interními pravidly.",
+        "Odškodnění: za zpoždění vnitrostátních letů se neposkytuje žádná finanční náhrada."
+      ],
+      "GUIDELINES_TITLE": "Obecná pravidla (závisí na konkrétní letecké společnosti):",
+      "GUIDELINES": [
+        "Zpoždění 2–3 hodiny: mohou být nabídnuty nápoje/občerstvení.",
+        "Zpoždění nad 3 hodiny: mohou být poskytnuty snacky/občerstvení.",
+        "Zpoždění nad 6 hodin: může být nabídnuto náhradní spojení nebo ubytování (v závislosti na pravidlech dané letecké společnosti)."
+      ],
+      "MORE_POINTS": [
+        "Mimořádné okolnosti: v případě nepříznivých povětrnostních podmínek, omezení řízení letového provozu, bezpečnostních kontrol nebo jiných mimořádných okolností nevzniká nárok na žádné dodatečné služby.",
+        "Podpora CET: cestovní agentura CET vám poskytne součinnost při předávání informací a koordinaci v rámci možností. Po odbavení (check-in) se však hosté nacházejí v zabezpečeném prostoru letiště, kam personál CET nemá přístup a nemusí mít k dispozici aktuální informace v reálném čase. V takových případech se prosím obraťte na naši horkou linku (hotline) CET.",
+        "Odpovědnost: za realizaci letů nese výhradní odpovědnost příslušná letecká společnost."
       ]
     },
     "GENERAL_NOTES": {
-      "TITLE": "Obecné Poznámky",
+      "TITLE": "Obecné pokyny",
       "POINTS": [
-        "Místo setkání pro všechny výlety je vstupní oblast před vaším hotelem.",
-        "Nezapomeňte si vzít červenou kopii výletní jízdenky. Váš průvodce ji vyzvedne před odjezdem.",
-        "Nápoje k jídlům nejsou zahrnuty v ceně",
-        "Vstupy do síně mumií muzea, hrobky Tutanchamona a pohřebních komor pyramid nejsou zahrnuty v ceně.",
-        "Během prohlídky nenechávejte prosím cennosti (fotoaparát, peníze) v autobusu.",
-        "Změny v cestovním plánu podléhají krátkodobým změnám, ale charakter výletu se samozřejmě plně zachová."
+        "Místem srazu u všech výletů je prostor před vchodem do vašeho hotelu.",
+        "Nezapomeňte si vzít s sebou červenou kopii výletního lístku. Váš delegát ji před odjezdem vybere.",
+        "Nápoje během jídla nejsou zahrnuty v ceně.",
+        "Vstupy do mumiového sálu muzea, do Tutanchamonovy hrobky a do pohřebních komor pyramid nejsou zahrnuty v ceně.",
+        "Během prohlídek nenechávejte v autobuse žádné cennosti (fotoaparáty, peníze).",
+        "Vyhrazujeme si právo na krátkodobé změny v itineráři výletu. Samotný charakter výletu a jeho plný rozsah však zůstanou samozřejmě zachovány."
       ]
     },
-    "RESPONSIBILITY": "Odpovědnost za organizaci a realizaci nese místní agentura Cairo Express Travel",
-    "CONFIRMATION": "Tímto potvrzujete, že rezervujete výše uvedený výlet u místního provozovatele výletů CET Cairo Express Travel pro výše uvedené účastníky výletu. Vzali jste na vědomí, že se nejedná o službu a nabídku cestovní kanceláře, u které jsem si rezervoval zájezdovou dovolenou v Egyptě.",
-    "ENJOY": "Užijte si výlet!",
-    "TEAM_GREETING": "Váš tým CET vám přeje příjemný výlet a hodně zábavy!!!",
-    "CONTACT_INFO": "Pro dotazy, speciální požadavky nebo stížnosti, kontaktujte prosím níže uvedenou adresu.",
-    "EMAIL": "Email: cetservice@cairoexpresstravel.com",
-    "QR_CODE": "nebo naskenujte QR kód"
+    "RESPONSIBILITY": "Odpovědnost za organizaci a realizaci nese místní agentura Cairo Express Travel (CET).",
+    "CONFIRMATION": "Tímto potvrzujete, že si závazně rezervujete výše uvedený výlet u místního organizátora výletů CET Cairo Express Travel pro výše uvedené účastníky. Berete na vědomí, že se nejedná o službu ani nabídku pořadatele zájezdu (cestovní kanceláře ETI), u které jste si rezervovali svůj pobyt v Egyptě.",
+    "ENJOY": "Příjemný výlet!",
+    "TEAM_GREETING": "Váš tým CET vám přeje krásný výlet a spoustu zábavy!",
+    "CONTACT_INFO": "V případě dotazů, speciálních přání nebo stížností se prosím obraťte na níže uvedenou adresu:",
+    "EMAIL": "E-mail: cetservice@cairoexpresstravel.com",
+    "QR_CODE": "nebo naskenujte QR kód."
   },
   "LANGUAGE_SELECTOR": {
-    "TITLE": "Nastavení Jazyka",
-    "SUBTITLE": "Vyberte preferovaný jazyk",
+    "TITLE": "Nastavení jazyka",
+    "SUBTITLE": "Vyberte si preferovaný jazyk",
     "SEARCH_PLACEHOLDER": "Hledat jazyky...",
-    "RECENT": "Nedávno použité",
-    "ALL_LANGUAGES": "Všechny Jazyky",
+    "RECENT": "Naposledy použité",
+    "ALL_LANGUAGES": "Všechny jazyky",
     "ACTIVE": "Aktivní",
     "NO_RESULTS": "Nebyly nalezeny žádné jazyky",
     "NO_RESULTS_DESC": "Zkuste upravit hledané výrazy",

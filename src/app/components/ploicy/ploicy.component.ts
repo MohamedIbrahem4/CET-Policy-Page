@@ -102,6 +102,13 @@ export class PloicyComponent {
     info: 'West Slavic language'
   },
   {
+  code: 'ro',
+  name: 'Romanian',
+  nativeName: 'Română',
+  flag: '🇷🇴',
+  info: 'Romance language'
+},
+  {
     code: 'sk',
     name: 'Slovak',
     nativeName: 'Slovenčina',

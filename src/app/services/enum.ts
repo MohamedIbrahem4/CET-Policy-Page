@@ -1,6 +1,6 @@
 
 
-export type StorageLanguage = 'en' | 'ar' | 'de' | 'nl' | 'el' | 'fr' | 'it' | 'ru' | 'tr' | 'zh' | 'pl' | 'sk' | 'hu' | 'cs' ;
+export type StorageLanguage = 'en' | 'ar' | 'de' | 'nl' | 'el' | 'fr' | 'it' | 'ru' | 'tr' | 'zh' | 'pl' | 'sk' | 'hu' | 'cs' | 'ro' ;
 export enum StorageKey {
   Language = 'LANGUAGE',
   Cart='CART',

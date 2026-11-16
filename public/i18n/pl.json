@@ -1,101 +1,124 @@
 {
   "EXCURSION_POLICY": {
-    "TITLE": "Przydatne Informacje dla Wszystkich Wycieczek",
-    "GENERAL_INFO": "Informacje Ogólne",
-    "SPECIFIC_EXCURSIONS": "Informacje o Konkretnych Wycieczkach",
-    "CONTACT": "Informacje Kontaktowe",
+    "TITLE": "Przydatne informacje dotyczące wszystkich wycieczek",
+    "GENERAL_INFO": "Informacje ogólne",
+    "SPECIFIC_EXCURSIONS": "Informacje dotyczące poszczególnych wycieczek",
+    "CONTACT": "Kontakt",
     "POINTS": {
-      "1": "Prosimy upewnić się, że data na bilecie wycieczkowym jest poprawnie wpisana.",
-      "2": "Jeśli zmieniłeś pokój lub hotel od tego, co jest podane na bilecie, skontaktuj się z przewodnikiem hotelowym, aby wprowadzić zmianę.",
-      "3": "Odbiór na wszystkie wycieczki odbywa się w strefie wejściowej Twojego hotelu.",
-      "4": "W przypadku odbioru przed 07:30, prosimy zamówić budzenie na recepcji do godziny 18:00 i zapytać o opcje śniadania.",
-      "5": "Na wycieczki z lotami lub noclegami oraz podróże na Półwysep Synajski potrzebujesz paszportu. Prosimy nosić długie spodnie podczas zwiedzania klasztoru.",
+      "1": "Prosimy upewnić się, że data na bilecie wycieczkowym jest zapisana poprawnie.",
+      "2": "Jeśli zmienili Państwo pokój lub hotel i dane na bilecie są inne, prosimy zgłosić to rezydentowi hotelowemu w celu dokonania zmiany.",
+      "3": "Odbiór na wszystkie wycieczki odbywa się przed wejściem do hotelu.",
+      "4": "W przypadku odbioru przed godziną 07:30 prosimy zgłosić w recepcji do godziny 18:00 prośbę o pobudkę oraz zapytać o możliwość otrzymania śniadania.",
+      "5": "Na wycieczki z przelotem lub noclegiem oraz na wyjazdy na Półwysep Synaj wymagany jest paszport. Podczas zwiedzania klasztoru prosimy nosić długie spodnie.",
       "6": "Napoje do posiłków nie są wliczone w cenę.",
-      "7": "Prosimy nie zostawiać wartościowych przedmiotów (aparat fotograficzny, pieniądze itp.) w autobusie podczas zwiedzania.",
-      "8": "Prosimy pamiętać: butelki z wodą, krem przeciwsłoneczny, wygodne buty, nakrycie głowy, a na długie podróże poduszkę.",
-      "9": "Na wycieczki, które trwają do wieczora, potrzebujesz czegoś do narzucenia na ubranie.",
-      "10": "Na wycieczki pustynne i nurkowanie z rurką otrzymasz formularz bezpieczeństwa, który powinieneś przeczytać i podpisać.",
-      "11": "Na wycieczki quad i safari: goście cierpiący na problemy z plecami (kręgosłup/dyski) i kobiety w ciąży nie mogą uczestniczyć w takich wycieczkach.",
-      "12": "Prosimy poinformować przewodnika na czas w przypadku odwołania lub zmiany rezerwacji - Za odwołania po rezerwacji i do jednego dnia przed rozpoczęciem wycieczki, agencja zastrzega sobie następujące opłaty za odwołanie:",
-      "13": "Za odwołania w dniu wycieczki nic nie zostanie zwrócone.",
-      "14": "Zmiany w programie podróży podlegają krótkoterminowym zmianom, ale charakter wycieczki oczywiście pozostanie w pełni zachowany.",
-      "15": "Za niektóre wycieczki opłaty należy uiścić na miejscu, o czym oczywiście poinformuje Cię przewodnik przy rezerwacji."
+      "7": "Prosimy nie pozostawiać w autobusie żadnych wartościowych przedmiotów (aparatu, pieniędzy itp.) podczas zwiedzania.",
+      "8": "Prosimy pamiętać o zabraniu: butelek z wodą, kremu z filtrem przeciwsłonecznym, wygodnego obuwia, nakrycia głowy oraz – w przypadku długich przejazdów – poduszki pod głowę.",
+      "9": "Na wycieczki trwające do wieczora prosimy zabrać coś cieplejszego do narzucenia.",
+      "10": "Przy odbiorze na wycieczki pustynne oraz snorkelingowe otrzymają Państwo formularz bezpieczeństwa, który należy przeczytać i podpisać.",
+      "11": "W przypadku wycieczek quadami oraz safari: osoby cierpiące na schorzenia kręgosłupa (kręgosłup / dyski) oraz kobiety w ciąży nie mogą brać udziału w tego typu wycieczkach.",
+      "12": "W przypadku anulowania lub zmiany rezerwacji prosimy o niezwłoczne poinformowanie rezydenta. W przypadku anulowania po dokonaniu rezerwacji i do jednego dnia przed rozpoczęciem wycieczki agencja zastrzega sobie prawo do naliczenia następujących opłat za anulowanie:",
+      "13": "W przypadku anulowania w dniu wycieczki lub po dniu wycieczki koszt wycieczki nie podlega zwrotowi.",
+      "14": "Zmiany w programie wycieczki mogą być wprowadzane w krótkim terminie; charakter wycieczki pozostaje jednak w pełni zachowany.",
+      "15": "W przypadku niektórych wycieczek obowiązują opłaty płatne na miejscu; o ich wysokości zostaną Państwo poinformowani przez rezydenta podczas rezerwacji."
     },
     "CANCELLATION_FEES": {
-      "TITLE": "Opłaty za Odwołanie",
+      "TITLE": "Opłaty za anulowanie",
+      "EXCURSION": "Wycieczka",
       "80_PERCENT": "Kair i Luksor samolotem",
-      "NO_REFUND": "Wycieczka Zakupowa",
-      "50_PERCENT": "Wszystkie inne wycieczki"
+      "NO_REFUND": "Wycieczka zakupowa",
+      "NON_REFUNDABLE": "Nie podlega zwrotowi",
+      "50_PERCENT": "Pozostałe wycieczki"
     },
     "BUS_TRIP": {
-      "TITLE": "Podróż Autobusem do Kairu lub Luksoru",
+      "TITLE": "Przejazd autokarem do Kairu lub Luksoru",
       "POINTS": [
-        "Dzień przed wycieczką zamów proszę budzenie, śniadaniówkę i późną kolację na recepcji.",
-        "Zabierz wygodne ubranie, solidne buty, poduszkę, butelkę wody, krem przeciwsłoneczny, okulary przeciwsłoneczne, aparat, krem, pieniądze na napoje i pamiątki.",
-        "Klimatyzacja w autobusie może być chłodna, więc weź coś do narzucenia na ubranie.",
-        "Jeśli zarezerwowałeś wycieczkę z lotem lub noclegiem, będziesz również potrzebować paszportu lub dowodu tożsamości.",
-        "Wejścia do Sali Mumii Muzeum, Grobu Tutenchamona i komór grobowych piramid są ekskluzywne."
+        "Dzień przed wycieczką prosimy zamówić w recepcji pobudkę, pakiet śniadaniowy oraz późną kolację.",
+        "Prosimy zabrać ze sobą: wygodne ubranie, solidne obuwie, poduszkę, butelkę wody, ochronę przeciwsłoneczną, okulary przeciwsłoneczne, aparat fotograficzny, krem, gotówkę na napoje i pamiątki.",
+        "Klimatyzacja w autobusie może być chłodna, dlatego prosimy zabrać coś do narzucenia.",
+        "W przypadku wycieczki z przelotem lub noclegiem wymagany będzie paszport lub dowód osobisty.",
+        "Wstęp do grobu Tutanchamona oraz do komór grobowych piramid nie jest wliczony w cenę.",
+        "Prosimy nie pozostawiać w autobusie żadnych wartościowych przedmiotów (aparatu, pieniędzy) podczas zwiedzania.",
+        "Wejścia do komór grobowych piramid są dodatkowo płatne."
       ]
     },
     "SEA_EXCURSIONS": {
-      "TITLE": "Wycieczki Morskie",
+      "TITLE": "Wycieczki morskie",
       "SNORKELING": {
-        "TITLE": "Nurkowanie z Rurką",
+        "TITLE": "Wycieczki snorkelingowe",
         "POINTS": [
-          "Zabierz strój kąpielowy, ręczniki plażowe z hotelu, okulary przeciwsłoneczne, krem, aparat, pieniądze (napoje na wyspie nie są wliczone w cenę), kurtkę do narzucenia po południu.",
-          "Jeśli wizyta na wyspie nie jest możliwa, zamiast tego odbędzie się dodatkowa sesja nurkowania z łodzi.",
-          "Podczas odbioru otrzymasz formularz bezpieczeństwa, który powinieneś przeczytać i podpisać.",
-          "Dla wycieczek morskich obowiązują różne opłaty środowiskowe."
+          "Prosimy zabrać ze sobą: strój kąpielowy, ręczniki plażowe z hotelu, okulary przeciwsłoneczne, krem przeciwsłoneczny, aparat fotograficzny, gotówkę (napoje na wyspie nie są wliczone w cenę) oraz kurtkę lub coś cieplejszego do narzucenia po południu.",
+          "W przypadku gdy wizyta na wyspie nie będzie możliwa, w zamian odbędzie się dodatkowe snorkelowanie z łodzi.",
+          "Podczas odbioru otrzymają Państwo formularz bezpieczeństwa, który należy przeczytać i podpisać.",
+          "W przypadku wycieczek morskich obowiązują różne opłaty środowiskowe."
         ]
       },
       "GLASS_BOAT": {
-        "TITLE": "Łódź ze Szklanym Dnem",
+        "TITLE": "Łódź z przeszklonym dnem",
         "POINTS": [
-          "Zabierz krem przeciwsłoneczny, okulary, butelkę wody i aparat."
+          "Prosimy zabrać ze sobą: ochronę przeciwsłoneczną, okulary, butelkę wody oraz aparat fotograficzny."
         ]
       }
     },
     "DESERT_EXCURSIONS": {
-      "TITLE": "Wycieczki Pustynne",
+      "TITLE": "Wycieczki pustynne",
       "POINTS": [
-        "Ubierz się wygodnie, solidne buty, okulary przeciwsłoneczne, krem, aparat, wodę na podróż i drobne na pamiątki.",
-        "Na wycieczki, które trwają do wieczora, potrzebujesz czegoś do narzucenia na ubranie.",
-        "Goście cierpiący na problemy z plecami lub problemy z kręgosłupem/dyskami oraz kobiety w ciąży nie mogą uczestniczyć w takich wycieczkach.",
-        "Quad jest tylko dla jednej osoby.",
-        "Jazda na quadzie nie jest dozwolona dla osób poniżej 16 roku życia.",
-        "Podczas odbioru otrzymasz formularz bezpieczeństwa, który powinieneś przeczytać i podpisać.",
+        "Ubrać się wygodnie, założyć solidne obuwie, zabrać okulary przeciwsłoneczne, krem, aparat fotograficzny, wodę na drogę w jedną stronę oraz drobne pieniądze na pamiątki.",
+        "W przypadku wycieczek trwających do wieczora potrzebne będzie coś do narzucenia.",
+        "Goście cierpiący na dolegliwości bólowe pleców lub problemy z kręgosłupem / dyskami międzykręgowymi oraz kobiety w ciąży nie mogą brać udziału w tego typu wycieczkach.",
+        "Quad przeznaczony jest tylko dla jednej osoby.",
+        "Osobom poniżej 16. roku życia nie wolno prowadzić quada.",
+        "Podczas odbioru otrzymają Państwo formularz bezpieczeństwa, który należy przeczytać i podpisać.",
         "Jazda na wielbłądzie nie jest dozwolona dla osób z nadwagą.",
-        "Dla wycieczek pustynnych obowiązują różne opłaty środowiskowe."
+        "W przypadku wycieczek pustynnych obowiązują różne opłaty środowiskowe."
+      ]
+    },
+    "FLIGHT_CAIRO": {
+      "TITLE": "Kair samolotem",
+      "INTRO": "Niniejsza wycieczka obejmuje loty krajowe realizowane przez egipskie linie lotnicze. Poniżej przedstawiono zasady dotyczące postępowania w przypadku opóźnień lotów krajowych w Egipcie:",
+      "POINTS": [
+        "Wszelkie świadczenia przysługujące w przypadku opóźnienia lotu (napoje, posiłki, zakwaterowanie, zmiany rezerwacji) są zapewniane wyłącznie przez realizującą lot linię lotniczą, zgodnie z lokalnymi przepisami oraz wewnętrznymi zasadami danej linii lotniczej.",
+        "Za opóźnienia lotów krajowych nie przysługuje rekompensata finansowa."
+      ],
+      "GUIDELINES_TITLE": "Ogólne wytyczne (w zależności od linii lotniczej):",
+      "GUIDELINES": [
+        "Opóźnienie 2–3 godziny: może zostać zapewniona woda lub napoje.",
+        "Opóźnienie powyżej 3 godzin: mogą zostać zapewnione przekąski i napoje.",
+        "Opóźnienie powyżej 6 godzin: może zostać zaproponowana zmiana rezerwacji lub zakwaterowanie (w zależności od zasad danej linii lotniczej)."
+      ],
+      "MORE_POINTS": [
+        "W przypadku warunków pogodowych, ograniczeń ze strony kontroli ruchu lotniczego, kontroli bezpieczeństwa lub innych nadzwyczajnych okoliczności nie przysługują żadne dodatkowe świadczenia.",
+        "CET wspiera Państwa informacyjnie oraz w zakresie koordynacji w miarę możliwości. Po odprawie goście znajdują się jednak w strefie bezpieczeństwa lotniska, do której pracownicy CET nie mają dostępu i mogą nie otrzymywać bieżących informacji. W takich przypadkach prosimy o kontakt z naszą infolinią CET.",
+        "Realizacja lotów leży wyłącznie w gestii danej linii lotniczej."
       ]
     },
     "GENERAL_NOTES": {
-      "TITLE": "Uwagi Ogólne",
+      "TITLE": "Uwagi ogólne",
       "POINTS": [
-        "Miejsce spotkania dla wszystkich wycieczek to strefa wejściowa przed Twoim hotelem.",
-        "Pamiętaj, aby zabrać czerwoną kopię biletu na wycieczkę. Twój przewodnik odbierze ją przed odjazdem.",
-        "Napoje do posiłków nie są wliczone w cenę",
-        "Wejścia do Sali Mumii Muzeum, Grobu Tutenchamona i komór grobowych piramid nie są wliczone w cenę.",
-        "Prosimy nie zostawiać wartościowych przedmiotów (aparat, pieniądze) w autobusie podczas zwiedzania.",
-        "Zmiany w programie podróży podlegają krótkoterminowym zmianom, ale charakter wycieczki oczywiście pozostanie w pełni zachowany."
+        "Miejscem zbiórki na wszystkie wycieczki jest wejście do hotelu.",
+        "Prosimy koniecznie zabrać ze sobą czerwoną kopię biletu wycieczkowego. Rezydent odbierze ją przed rozpoczęciem wycieczki.",
+        "Napoje do posiłków nie są wliczone w cenę.",
+        "Wstęp do sali mumii w muzeum, grobu Tutanchamona oraz do komór grobowych piramid nie jest wliczony w cenę.",
+        "Prosimy nie pozostawiać w autobusie żadnych wartościowych przedmiotów (aparatu, pieniędzy) podczas zwiedzania.",
+        "Zmiany w programie wycieczki mogą być wprowadzane w krótkim terminie; charakter wycieczki pozostaje jednak w pełni zachowany."
       ]
     },
-    "RESPONSIBILITY": "Odpowiedzialność za organizację i realizację spoczywa na lokalnej agencji Cairo Express Travel",
-    "CONFIRMATION": "Niniejszym potwierdzasz, że rezerwujesz ww. wycieczkę u lokalnego operatora wycieczek CET Cairo Express Travel dla ww. uczestników wycieczki. Zauważyłeś, że nie jest to usługa i oferta organizatora wycieczek all inclusive, u którego zarezerwowałem moje wakacje all inclusive w Egipcie.",
+    "RESPONSIBILITY": "Odpowiedzialność za organizację i realizację ponosi lokalna agencja Cairo Express Travel.",
+    "CONFIRMATION": "Niniejszym potwierdzają Państwo, że dokonują wiążącej rezerwacji wyżej wymienionej wycieczki u lokalnego organizatora wycieczek CET Cairo Express Travel dla wskazanych powyżej uczestników. Przyjmują Państwo do wiadomości, że nie jest to usługa ani oferta organizatora imprezy turystycznej, u którego została wykupiona Państwa impreza turystyczna w Egipcie.",
     "ENJOY": "Miłej wycieczki!",
-    "TEAM_GREETING": "Zespół CET życzy miłej wycieczki i dużo zabawy!!!",
-    "CONTACT_INFO": "W przypadku pytań, specjalnych życzeń lub skarg prosimy o kontakt pod poniższym adresem.",
-    "EMAIL": "Email: cetservice@cairoexpresstravel.com",
-    "QR_CODE": "lub zeskanuj kod QR"
+    "TEAM_GREETING": "Zespół CET życzy Państwu miłej wycieczki i wspaniałej zabawy!!!",
+    "CONTACT_INFO": "W przypadku zapytań, specjalnych życzeń lub reklamacji prosimy o kontakt pod poniższym adresem e-mail:",
+    "EMAIL": "E-mail: cetservice@cairoexpresstravel.com",
+    "QR_CODE": "lub o zeskanowanie kodu QR."
   },
   "LANGUAGE_SELECTOR": {
-    "TITLE": "Ustawienia Języka",
+    "TITLE": "Ustawienia języka",
     "SUBTITLE": "Wybierz preferowany język",
     "SEARCH_PLACEHOLDER": "Szukaj języków...",
     "RECENT": "Ostatnio używane",
-    "ALL_LANGUAGES": "Wszystkie Języki",
+    "ALL_LANGUAGES": "Wszystkie języki",
     "ACTIVE": "Aktywny",
     "NO_RESULTS": "Nie znaleziono języków",
-    "NO_RESULTS_DESC": "Spróbuj dostosować warunki wyszukiwania",
-    "FOOTER_INFO": "Zmiany obowiązują natychmiast"
+    "NO_RESULTS_DESC": "Spróbuj zmienić wyszukiwane hasła",
+    "FOOTER_INFO": "Zmiany są stosowane natychmiast"
   }
 }
